@@ -1,0 +1,333 @@
+{
+  "meta": {
+    "title": "Axiom | Digitale Souveränität neu denken – Enterprise Cloud & KI",
+    "description": "Führende Lösungen für hybride Cloud, vertrauenswürdige generative KI und modernste Unternehmenssicherheit in Deutschland und Europa.",
+    "locale": "de-DE",
+    "author": "Axiom Cognitive Technologies"
+  },
+  "header": {
+    "brandName": "AXIOM",
+    "brandTagline": "Cognitive Enterprise",
+    "navItems": [
+      {
+        "id": "software",
+        "label": "Software",
+        "href": "#solutions",
+        "menuItems": [
+          { "title": "Generative KI & Governance", "desc": "Enterprise-Foundation-Modelle und Orchestrierung", "href": "#solutions" },
+          { "title": "Hybride Cloud & Container", "desc": "Multi-Cloud-Bereitstellung auf Open-Source-Basis", "href": "#solutions" },
+          { "title": "Echtzeit-Datenstreaming", "desc": "Hochskalierbare Event-Driven Architekturen", "href": "#solutions" },
+          { "title": "Automatisierung & AIOps", "desc": "Prozessoptimierung und prädiktive Wartung", "href": "#solutions" }
+        ]
+      },
+      {
+        "id": "infrastruktur",
+        "label": "Infrastruktur",
+        "href": "#featured",
+        "menuItems": [
+          { "title": "High-Performance Storage", "desc": "FlashSystem-Architektur für latenzkritische Workloads", "href": "#featured" },
+          { "title": "Souveräne Rechenzentren", "desc": "DSGVO-konforme Enterprise-Infrastruktur in Frankfurt", "href": "#featured" },
+          { "title": "Quantenresistente Verschlüsselung", "desc": "Zukunftssichere Kryptographie für kritische Systeme", "href": "#featured" }
+        ]
+      },
+      {
+        "id": "consulting",
+        "label": "Consulting",
+        "href": "#solutions",
+        "menuItems": [
+          { "title": "Cloud-Transformation", "desc": "Strategie und Migration für regulierte Industrien", "href": "#solutions" },
+          { "title": "Cybersecurity & Zero Trust", "desc": "Ganzheitliche Sicherheitsarchitektur und Audit", "href": "#solutions" }
+        ]
+      },
+      {
+        "id": "support",
+        "label": "Support & Docs",
+        "href": "#footer"
+      },
+      {
+        "id": "insights",
+        "label": "Forschung & Think",
+        "href": "#insights"
+      }
+    ],
+    "searchPlaceholder": "Produkte, Dokumentation und Lösungen suchen...",
+    "regionLabel": "Deutschland (de-DE)",
+    "loginLabel": "Anmelden",
+    "contactCta": {
+      "label": "Kontakt aufnehmen",
+      "href": "#cta"
+    }
+  },
+  "hero": {
+    "eyebrow": "Enterprise Transformation 2026",
+    "headline": "Digitale Souveränität neu denken",
+    "lead": "Erfahren Sie, wie zukunftsorientierte Unternehmen globale Innovationen nutzen und gleichzeitig die volle Kontrolle über Daten, KI-Modelle und missionskritische Infrastrukturen behalten.",
+    "primaryCta": {
+      "label": "Lösungen erkunden",
+      "href": "#solutions"
+    },
+    "secondaryCta": {
+      "label": "Whitepaper herunterladen",
+      "href": "#insights"
+    },
+    "newsSidebar": {
+      "title": "Aktuelle Mitteilungen",
+      "items": [
+        {
+          "id": 1,
+          "badge": "Studie 2026",
+          "title": "Acht von zehn DAX-Unternehmen priorisieren souveräne KI-Cluster",
+          "href": "#insights",
+          "date": "Oktober 2026"
+        },
+        {
+          "id": 2,
+          "badge": "Partnerschaft",
+          "title": "Axiom und europäische Telekom-Allianz etablieren DSGVO-gesicherte KI",
+          "href": "#insights",
+          "date": "September 2026"
+        },
+        {
+          "id": 3,
+          "badge": "Benchmark",
+          "title": "3.4-fache Durchsatzsteigerung bei Hybrid-Cloud-Migrationen",
+          "href": "#insights",
+          "date": "August 2026"
+        },
+        {
+          "id": 4,
+          "badge": "Sicherheit",
+          "title": "Zero-Trust-Framework für NIS-2-Compliance zertifiziert",
+          "href": "#insights",
+          "date": "Juli 2026"
+        }
+      ]
+    }
+  },
+  "announcement": {
+    "tag": "TechSummit DACH | 12.–14. November 2026",
+    "title": "Erleben Sie praxisnahe Tools, reale Kundenanwendungen und Experten-Panels rund um KI, Cloud und Datensicherheit.",
+    "ctaLabel": "Kostenfreies Ticket sichern",
+    "href": "#cta"
+  },
+  "featured": {
+    "sectionId": "featured",
+    "eyebrow": "Fokusthemen",
+    "title": "Für Sie empfohlen",
+    "description": "Erkunden Sie ausgewählte Technologiebausteine zur Stärkung Ihrer betrieblichen Resilienz.",
+    "cards": [
+      {
+        "id": "assessment",
+        "tag": "Selbsteinschätzung",
+        "title": "Assessment: Digitale Souveränität",
+        "description": "Erfahren Sie, wie Ihr Unternehmen im Vergleich zu Marktführern in den Bereichen Datensouveränität, KI-Ethik und Plattformunabhängigkeit abschneidet.",
+        "href": "#cta",
+        "icon": "DataEnrichment"
+      },
+      {
+        "id": "case-study",
+        "tag": "Anwendungsfall",
+        "title": "Regulierte Finanzinfrastruktur",
+        "description": "Wie ein europäischer Zahlungsdienstleister mit hybrider Architektur 99,999% Verfügbarkeit bei vollständiger lokaler Compliance erreicht.",
+        "href": "#cta",
+        "icon": "Finance"
+      },
+      {
+        "id": "study",
+        "tag": "CXO-Studie",
+        "title": "KI-getriebene Wertschöpfung",
+        "description": "Strategischer Leitfaden zur Überwindung von Silos und zur Skalierung generativer Modelle in Produktionsteams.",
+        "href": "#cta",
+        "icon": "ChartLineData"
+      },
+      {
+        "id": "trial",
+        "tag": "Kostenfreie Testversion",
+        "title": "Enterprise Cloud Sandbox",
+        "description": "Testen Sie 30 Tage lang modulare Workloads mit 100 Compute-Credits und dediziertem DACH-Support.",
+        "href": "#cta",
+        "icon": "CloudApp"
+      }
+    ]
+  },
+  "solutions": {
+    "sectionId": "solutions",
+    "eyebrow": "Produktökosystem",
+    "title": "Technologie für moderne Unternehmen",
+    "lead": "Ausgezeichnet als führende Unternehmensplattform für geschäftskritische Transformation: von generativer KI und Event-Streaming bis zu Hochverfügbarkeits-Speichern.",
+    "ctaLink": {
+      "label": "Alle Produkte im Katalog anzeigen",
+      "href": "#cta"
+    },
+    "items": [
+      {
+        "id": "ai-code",
+        "title": "Intelligente Code-Generierung & Assistenz",
+        "category": "Künstliche Intelligenz",
+        "description": "Kontextsensitive Unterstützung für Software-Engineering-Teams mit auditierbaren Lizenzen.",
+        "icon": "Code",
+        "href": "#cta"
+      },
+      {
+        "id": "orchestrate",
+        "title": "KI-Orchestrierung & Governance",
+        "category": "Plattform",
+        "description": "Automatisieren Sie komplexe Geschäftsprozesse mit transparenten und nachvollziehbaren Modellentscheidungen.",
+        "icon": "Enterprise",
+        "href": "#cta"
+      },
+      {
+        "id": "streaming",
+        "title": "Echtzeit-Datenstreaming & Event Mesh",
+        "category": "Daten & Analytics",
+        "description": "Unterbrechungsfreier Datentransfer für globale verteilte Systeme mit Sub-Millisekunden-Latenz.",
+        "icon": "DataConnected",
+        "href": "#cta"
+      },
+      {
+        "id": "storage",
+        "title": "Intelligenter NVMe-Speicherbetrieb",
+        "category": "Infrastruktur",
+        "description": "Adaptive Speicherverwaltung mit integriertem Ransomware-Schutz und unveränderlichen Snapshots.",
+        "icon": "DataBase",
+        "href": "#cta"
+      },
+      {
+        "id": "security",
+        "title": "Identitätsbasierte Zero-Trust-Sicherheit",
+        "category": "Cybersecurity",
+        "description": "Zentralisiertes Zugriffs- und Privilegienmanagement über On-Premises- und Multi-Cloud-Ressourcen.",
+        "icon": "Security",
+        "href": "#cta"
+      },
+      {
+        "id": "asset-mgmt",
+        "title": "Prädiktives Asset- & Flottenmanagement",
+        "category": "IoT & Automation",
+        "description": "Sensorbasierte Zustandserfassung zur vorausschauenden Reduzierung von Ausfallzeiten im Betrieb.",
+        "icon": "Devices",
+        "href": "#cta"
+      },
+      {
+        "id": "planning",
+        "title": "Integrierte Unternehmens- & Finanzplanung",
+        "category": "Finanzen & Controlling",
+        "description": "Szenariobasierte Simulationen und automatisierte Forecasts für dynamische Marktbedingungen.",
+        "icon": "Money",
+        "href": "#cta"
+      },
+      {
+        "id": "consulting-services",
+        "title": "Axiom Consulting & Modernisierung",
+        "category": "Dienstleistungen",
+        "description": "Begleitung von der Architektur-Definition bis zum produktiven 24/7 Betrieb durch zertifizierte Spezialisten.",
+        "icon": "UserMultiple",
+        "href": "#cta"
+      }
+    ]
+  },
+  "insights": {
+    "sectionId": "insights",
+    "eyebrow": "Research & Trends",
+    "title": "Aktuelle Analysen & Cybersecurity-Highlights",
+    "lead": "Fachbeiträge, Benchmark-Berichte und praxisorientierte On-Demand-Webinare unserer Forschungsabteilung.",
+    "cards": [
+      {
+        "id": "report-cost",
+        "badge": "Studie 2026",
+        "title": "Cost of a Data Breach 2026 – Regionale DACH-Ergebnisse",
+        "summary": "Die durchschnittlichen Kosten eines Vorfalls in regulierten Branchen und die quantifizierbare Hebelwirkung automatisierter Response-Playbooks.",
+        "readTime": "8 Min. Lesezeit",
+        "href": "#cta"
+      },
+      {
+        "id": "webinar-agentic",
+        "badge": "Webinar",
+        "title": "Agentic AI in Enterprise Runtimes sicher orchestrieren",
+        "summary": "Diskussion zu Absicherungsstrategien für autonome Agentensysteme in kritischen Produktionsumgebungen.",
+        "readTime": "45 Min. Video",
+        "href": "#cta"
+      },
+      {
+        "id": "whitepaper-quantum",
+        "badge": "Whitepaper",
+        "title": "Quantensichere Verschlüsselung in der Praxis",
+        "summary": "Konkrete Migrationspfade für bestehende PKI-Infrastrukturen zur Erfüllung kommender regulatorischer Standards.",
+        "readTime": "12 Min. Lesezeit",
+        "href": "#cta"
+      }
+    ]
+  },
+  "cta": {
+    "sectionId": "cta",
+    "title": "Bereit für die nächste Ära digitaler Souveränität?",
+    "copy": "Sprechen Sie mit unseren Lösungsarchitekten über Ihre individuellen Anforderungen an Cloud, KI und Datensicherheit oder starten Sie direkt mit einer kostenfreien Testumgebung.",
+    "primaryAction": {
+      "label": "Beratungsgespräch vereinbaren",
+      "href": "mailto:kontakt@axiom-technologies.de"
+    },
+    "secondaryAction": {
+      "label": "Testversion unverbindlich starten",
+      "href": "#featured"
+    },
+    "badges": [
+      "✓ DSGVO & EU-Cloud konform",
+      "✓ 99.999% SLA Verfügbarkeit",
+      "✓ 24/7 Support in deutscher Sprache"
+    ]
+  },
+  "footer": {
+    "sectionId": "footer",
+    "brandStatement": "Axiom Cognitive Technologies ist ein herstellerunabhängiger Pionier für souveräne Unternehmens-IT, Hybrid-Cloud-Architekturen und verantwortungsvolle künstliche Intelligenz in Deutschland und Europa.",
+    "columns": [
+      {
+        "title": "Lösungen & Produkte",
+        "links": [
+          { "label": "Generative KI & Governance", "href": "#solutions" },
+          { "label": "Hybride Cloud-Plattform", "href": "#solutions" },
+          { "label": "Echtzeit-Streaming", "href": "#solutions" },
+          { "label": "Zero-Trust-Sicherheit", "href": "#solutions" },
+          { "label": "Speicher & FlashSysteme", "href": "#solutions" }
+        ]
+      },
+      {
+        "title": "Branchen & Referenzen",
+        "links": [
+          { "label": "Finanzdienstleistungen", "href": "#featured" },
+          { "label": "Gesundheitswesen & Pharma", "href": "#featured" },
+          { "label": "Automobilindustrie & Fertigung", "href": "#featured" },
+          { "label": "Öffentlicher Sektor", "href": "#featured" },
+          { "label": "Energie- & Versorgungswirtschaft", "href": "#featured" }
+        ]
+      },
+      {
+        "title": "Ressourcen & Dokumentation",
+        "links": [
+          { "label": "Technologie-Blog", "href": "#insights" },
+          { "label": "Entwickler-Dokumentation", "href": "#solutions" },
+          { "label": "Webinare & On-Demand Sessions", "href": "#insights" },
+          { "label": "Compliance & Zertifizierungen", "href": "#cta" },
+          { "label": "Systemstatus (99.999%)", "href": "#cta" }
+        ]
+      },
+      {
+        "title": "Unternehmen",
+        "links": [
+          { "label": "Über Axiom Technologies", "href": "#hero" },
+          { "label": "Karriere & Stellenangebote", "href": "#cta" },
+          { "label": "Pressemitteilungen", "href": "#insights" },
+          { "label": "Nachhaltigkeit & ESG", "href": "#footer" },
+          { "label": "Kontakt & DACH-Standorte", "href": "#cta" }
+        ]
+      }
+    ],
+    "legalLinks": [
+      { "label": "Impressum", "href": "#" },
+      { "label": "Datenschutzerklärung", "href": "#" },
+      { "label": "Nutzungsbedingungen", "href": "#" },
+      { "label": "Barrierefreiheit", "href": "#" },
+      { "label": "Cookie-Präferenzen", "href": "#" }
+    ],
+    "copyright": "© 2026 Axiom Cognitive Technologies GmbH. Alle Rechte vorbehalten."
+  }
+}

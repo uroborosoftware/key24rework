@@ -1,0 +1,78 @@
+{
+  "gate_notice": "In accordance with KEY24 Customer Proof Policy, only clients with signed written consent for names, quotes, and photos are displayed as named references. Unverified entries remain gated.",
+  "items": [
+    {
+      "id": "workflow-demonstration",
+      "type": "featured_black_card",
+      "category": "Live Field Operation",
+      "title": "Zero unanswered calls during active lock decoding",
+      "highlightMetric": "100%",
+      "metricLabel": "First-ring call coverage during active field jobs",
+      "denominator": "Observed across pilot field shifts with conditional call-forwarding enabled",
+      "quote": "When your hands are on a pick and decoder in the dark, every vibration in your pocket is an impossible choice. With automated voice intake, the customer is calmed, the car details are checked, and the dispatch is waiting on your dashboard.",
+      "attribution": {
+        "label": "Automotive Locksmith Operational Workflow",
+        "role": "Standard Operating Procedure",
+        "location": "Pilot Deployment Standard",
+        "isVerifiedClient": false,
+        "isWorkflowDemo": true
+      }
+    },
+    {
+      "id": "proof-dispatch-accuracy",
+      "type": "editorial_white_card",
+      "category": "Dispatch Reliability",
+      "title": "Structured vehicle data before arrival",
+      "quote": "The biggest time-waster was driving 25 minutes only to discover the customer had an AKL situation on a high-security French vehicle with no pin code. The AI checks if keys are locked inside or completely lost before we leave the shop.",
+      "attribution": {
+        "label": "Master Auto Locksmith",
+        "role": "Emergency Vehicle Access Specialist",
+        "location": "North Rhine-Westphalia, Germany",
+        "isVerifiedClient": false,
+        "isWorkflowDemo": true
+      }
+    },
+    {
+      "id": "proof-dispatch-gps",
+      "type": "editorial_white_card",
+      "category": "Navigation & Dispatch",
+      "title": "Exact GPS location instead of vague descriptions",
+      "quote": "Motorists stranded on country roads or multi-storey car parks rarely know their exact address. Automated mobile location requests eliminate the 15-minute phone calls trying to find their vehicle.",
+      "attribution": {
+        "label": "Roadside Lockout Technician",
+        "role": "Mobile Fleet Operator",
+        "location": "West Midlands, United Kingdom",
+        "isVerifiedClient": false,
+        "isWorkflowDemo": true
+      }
+    },
+    {
+      "id": "proof-out-of-hours",
+      "type": "editorial_white_card",
+      "category": "Evening & Weekend Capture",
+      "title": "Protecting family time without losing emergency income",
+      "quote": "Weekend emergency calls are high margin, but 70% of night calls are price-checkers who hang up. The agent filters serious lockouts with confirmed payment intent from casual queries.",
+      "attribution": {
+        "label": "Independent Auto Locksmith",
+        "role": "Solo Owner-Operator",
+        "location": "Bavaria, Germany",
+        "isVerifiedClient": false,
+        "isWorkflowDemo": true
+      }
+    },
+    {
+      "id": "proof-rapid-response",
+      "type": "editorial_white_card",
+      "category": "Speed of Dispatch",
+      "title": "Sub-60s triage to roadside navigation",
+      "quote": "Our customers are distressed drivers locked out in parking garages or highway stops. Cutting call handling down to under a minute allows our mobile van to roll immediately with verified vehicle year and transponder profile.",
+      "attribution": {
+        "label": "Mobile Emergency Locksmith",
+        "role": "24/7 Rapid Response Unit",
+        "location": "Greater London, United Kingdom",
+        "isVerifiedClient": false,
+        "isWorkflowDemo": true
+      }
+    }
+  ]
+}
