@@ -1,0 +1,91 @@
+{
+  "project": {
+    "name": "enterprise-carbon-site",
+    "referenceSite": "https://www.ibm.com/de-de",
+    "purpose": "Build an original enterprise website using IBM Carbon design patterns",
+    "branding": "Replace IBM marks and proprietary content unless explicitly licensed",
+    "locale": "de-DE"
+  },
+  "starter": {
+    "recommendedRepository": "https://github.com/carbon-design-system/carbon-for-ibm-dotcom-nextjs-template",
+    "alternativeRepository": "https://github.com/carbon-design-system/carbon",
+    "note": "Audit and upgrade dependencies before production use; this is not a copy of the current IBM homepage"
+  },
+  "stack": {
+    "framework": "Next.js",
+    "language": "TypeScript (upgrade where needed)",
+    "uiLibrary": "@carbon/react and/or Carbon for IBM.com web components as compatible",
+    "styling": "Carbon tokens and Sass; avoid conflicting UI systems",
+    "animations": "CSS and Motion for React only when needed",
+    "testing": "Playwright",
+    "content": "JSON-driven section data"
+  },
+  "sections": [
+    {
+      "id": "header",
+      "kind": "site-navigation",
+      "required": true
+    },
+    {
+      "id": "hero",
+      "kind": "editorial-hero",
+      "required": true
+    },
+    {
+      "id": "featured",
+      "kind": "feature-grid",
+      "required": true
+    },
+    {
+      "id": "solutions",
+      "kind": "service-cards",
+      "required": true
+    },
+    {
+      "id": "insights",
+      "kind": "content-cards",
+      "required": false
+    },
+    {
+      "id": "cta",
+      "kind": "call-to-action",
+      "required": true
+    },
+    {
+      "id": "footer",
+      "kind": "site-footer",
+      "required": true
+    }
+  ],
+  "design": {
+    "strategy": "Audit live reference and derive sizes from screenshot evidence; do not claim exact values without measurement",
+    "useCarbonTokens": true,
+    "responsiveViewports": [
+      320,
+      390,
+      768,
+      1024,
+      1280,
+      1440
+    ],
+    "accessibleKeyboardNavigation": true,
+    "reducedMotion": true
+  },
+  "implementationPhases": [
+    "1. Clone starter and audit dependency compatibility",
+    "2. Audit reference page and capture comparable screenshots",
+    "3. Replace IBM-specific metadata, logos, legal and analytics with approved originals",
+    "4. Build responsive page sections using Carbon building blocks",
+    "5. Implement observable animations and functionality",
+    "6. Run Playwright tests and visual comparisons",
+    "7. Build and document deployment"
+  ],
+  "acceptanceCriteria": {
+    "productionBuildPasses": true,
+    "mobileNavigationWorks": true,
+    "noBrokenLinks": true,
+    "noHorizontalOverflowAtTargetViewports": true,
+    "supportsPrefersReducedMotion": true,
+    "screenshotsReviewed": true
+  }
+}
