@@ -1,0 +1,682 @@
+[
+  {
+    "locale": "en-GB",
+    "route": "/",
+    "status": 200
+  },
+  {
+    "locale": "de-DE",
+    "route": "/",
+    "status": 200
+  },
+  {
+    "locale": "tr-TR",
+    "route": "/",
+    "status": 200
+  },
+  {
+    "locale": "nl-NL",
+    "route": "/",
+    "status": 200
+  },
+  {
+    "locale": "no-NO",
+    "route": "/",
+    "status": 200
+  },
+  {
+    "locale": "fi-FI",
+    "route": "/",
+    "status": 200
+  },
+  {
+    "locale": "sv-SE",
+    "route": "/",
+    "status": 200
+  },
+  {
+    "locale": "ar-SA",
+    "route": "/",
+    "status": 200
+  },
+  {
+    "locale": "en-GB",
+    "route": "/demo",
+    "status": 200
+  },
+  {
+    "locale": "tr-TR",
+    "route": "/demo",
+    "status": 200
+  },
+  {
+    "locale": "de-DE",
+    "route": "/demo",
+    "status": 200
+  },
+  {
+    "locale": "fi-FI",
+    "route": "/demo",
+    "status": 200
+  },
+  {
+    "locale": "nl-NL",
+    "route": "/demo",
+    "status": 200
+  },
+  {
+    "locale": "sv-SE",
+    "route": "/demo",
+    "status": 200
+  },
+  {
+    "locale": "no-NO",
+    "route": "/demo",
+    "status": 200
+  },
+  {
+    "locale": "ar-SA",
+    "route": "/demo",
+    "status": 200
+  },
+  {
+    "locale": "de-DE",
+    "route": "/solutions/ai-call-agent",
+    "status": 200
+  },
+  {
+    "locale": "nl-NL",
+    "route": "/solutions/ai-call-agent",
+    "status": 200
+  },
+  {
+    "locale": "fi-FI",
+    "route": "/solutions/ai-call-agent",
+    "status": 200
+  },
+  {
+    "locale": "en-GB",
+    "route": "/solutions/ai-call-agent",
+    "status": 200
+  },
+  {
+    "locale": "tr-TR",
+    "route": "/solutions/ai-call-agent",
+    "status": 200
+  },
+  {
+    "locale": "no-NO",
+    "route": "/solutions/ai-call-agent",
+    "status": 200
+  },
+  {
+    "locale": "sv-SE",
+    "route": "/solutions/ai-call-agent",
+    "status": 200
+  },
+  {
+    "locale": "ar-SA",
+    "route": "/solutions/ai-call-agent",
+    "status": 200
+  },
+  {
+    "locale": "de-DE",
+    "route": "/solutions/whatsapp",
+    "status": 200
+  },
+  {
+    "locale": "nl-NL",
+    "route": "/solutions/whatsapp",
+    "status": 200
+  },
+  {
+    "locale": "fi-FI",
+    "route": "/solutions/whatsapp",
+    "status": 200
+  },
+  {
+    "locale": "en-GB",
+    "route": "/solutions/whatsapp",
+    "status": 200
+  },
+  {
+    "locale": "no-NO",
+    "route": "/solutions/whatsapp",
+    "status": 200
+  },
+  {
+    "locale": "tr-TR",
+    "route": "/solutions/whatsapp",
+    "status": 200
+  },
+  {
+    "locale": "sv-SE",
+    "route": "/solutions/whatsapp",
+    "status": 200
+  },
+  {
+    "locale": "ar-SA",
+    "route": "/solutions/whatsapp",
+    "status": 200
+  },
+  {
+    "locale": "en-GB",
+    "route": "/solutions/chatbot",
+    "status": 200
+  },
+  {
+    "locale": "de-DE",
+    "route": "/solutions/chatbot",
+    "status": 200
+  },
+  {
+    "locale": "nl-NL",
+    "route": "/solutions/chatbot",
+    "status": 200
+  },
+  {
+    "locale": "sv-SE",
+    "route": "/solutions/chatbot",
+    "status": 200
+  },
+  {
+    "locale": "tr-TR",
+    "route": "/solutions/chatbot",
+    "status": 200
+  },
+  {
+    "locale": "fi-FI",
+    "route": "/solutions/chatbot",
+    "status": 200
+  },
+  {
+    "locale": "no-NO",
+    "route": "/solutions/chatbot",
+    "status": 200
+  },
+  {
+    "locale": "ar-SA",
+    "route": "/solutions/chatbot",
+    "status": 200
+  },
+  {
+    "locale": "en-GB",
+    "route": "/platform/crm",
+    "status": 200
+  },
+  {
+    "locale": "nl-NL",
+    "route": "/platform/crm",
+    "status": 200
+  },
+  {
+    "locale": "tr-TR",
+    "route": "/platform/crm",
+    "status": 200
+  },
+  {
+    "locale": "de-DE",
+    "route": "/platform/crm",
+    "status": 200
+  },
+  {
+    "locale": "fi-FI",
+    "route": "/platform/crm",
+    "status": 200
+  },
+  {
+    "locale": "no-NO",
+    "route": "/platform/crm",
+    "status": 200
+  },
+  {
+    "locale": "sv-SE",
+    "route": "/platform/crm",
+    "status": 200
+  },
+  {
+    "locale": "ar-SA",
+    "route": "/platform/crm",
+    "status": 200
+  },
+  {
+    "locale": "en-GB",
+    "route": "/pricing",
+    "status": 200
+  },
+  {
+    "locale": "de-DE",
+    "route": "/pricing",
+    "status": 200
+  },
+  {
+    "locale": "nl-NL",
+    "route": "/pricing",
+    "status": 200
+  },
+  {
+    "locale": "tr-TR",
+    "route": "/pricing",
+    "status": 200
+  },
+  {
+    "locale": "sv-SE",
+    "route": "/pricing",
+    "status": 200
+  },
+  {
+    "locale": "no-NO",
+    "route": "/pricing",
+    "status": 200
+  },
+  {
+    "locale": "fi-FI",
+    "route": "/pricing",
+    "status": 200
+  },
+  {
+    "locale": "ar-SA",
+    "route": "/pricing",
+    "status": 200
+  },
+  {
+    "locale": "en-GB",
+    "route": "/contact",
+    "status": 200
+  },
+  {
+    "locale": "de-DE",
+    "route": "/contact",
+    "status": 200
+  },
+  {
+    "locale": "fi-FI",
+    "route": "/contact",
+    "status": 200
+  },
+  {
+    "locale": "no-NO",
+    "route": "/contact",
+    "status": 200
+  },
+  {
+    "locale": "tr-TR",
+    "route": "/contact",
+    "status": 200
+  },
+  {
+    "locale": "sv-SE",
+    "route": "/contact",
+    "status": 200
+  },
+  {
+    "locale": "nl-NL",
+    "route": "/contact",
+    "status": 200
+  },
+  {
+    "locale": "ar-SA",
+    "route": "/contact",
+    "status": 200
+  },
+  {
+    "locale": "en-GB",
+    "route": "/customers",
+    "status": 200
+  },
+  {
+    "locale": "tr-TR",
+    "route": "/customers",
+    "status": 200
+  },
+  {
+    "locale": "fi-FI",
+    "route": "/customers",
+    "status": 200
+  },
+  {
+    "locale": "no-NO",
+    "route": "/customers",
+    "status": 200
+  },
+  {
+    "locale": "nl-NL",
+    "route": "/customers",
+    "status": 200
+  },
+  {
+    "locale": "de-DE",
+    "route": "/customers",
+    "status": 200
+  },
+  {
+    "locale": "sv-SE",
+    "route": "/customers",
+    "status": 200
+  },
+  {
+    "locale": "ar-SA",
+    "route": "/customers",
+    "status": 200
+  },
+  {
+    "locale": "de-DE",
+    "route": "/customers/pilot-rhineland",
+    "status": 200
+  },
+  {
+    "locale": "en-GB",
+    "route": "/customers/pilot-rhineland",
+    "status": 200
+  },
+  {
+    "locale": "fi-FI",
+    "route": "/customers/pilot-rhineland",
+    "status": 200
+  },
+  {
+    "locale": "nl-NL",
+    "route": "/customers/pilot-rhineland",
+    "status": 200
+  },
+  {
+    "locale": "sv-SE",
+    "route": "/customers/pilot-rhineland",
+    "status": 200
+  },
+  {
+    "locale": "no-NO",
+    "route": "/customers/pilot-rhineland",
+    "status": 200
+  },
+  {
+    "locale": "tr-TR",
+    "route": "/customers/pilot-rhineland",
+    "status": 200
+  },
+  {
+    "locale": "ar-SA",
+    "route": "/customers/pilot-rhineland",
+    "status": 200
+  },
+  {
+    "locale": "en-GB",
+    "route": "/resources",
+    "status": 200
+  },
+  {
+    "locale": "fi-FI",
+    "route": "/resources",
+    "status": 200
+  },
+  {
+    "locale": "nl-NL",
+    "route": "/resources",
+    "status": 200
+  },
+  {
+    "locale": "de-DE",
+    "route": "/resources",
+    "status": 200
+  },
+  {
+    "locale": "tr-TR",
+    "route": "/resources",
+    "status": 200
+  },
+  {
+    "locale": "no-NO",
+    "route": "/resources",
+    "status": 200
+  },
+  {
+    "locale": "sv-SE",
+    "route": "/resources",
+    "status": 200
+  },
+  {
+    "locale": "ar-SA",
+    "route": "/resources",
+    "status": 200
+  },
+  {
+    "locale": "en-GB",
+    "route": "/resources/calculating-lost-lockout-revenue",
+    "status": 200
+  },
+  {
+    "locale": "fi-FI",
+    "route": "/resources/calculating-lost-lockout-revenue",
+    "status": 200
+  },
+  {
+    "locale": "nl-NL",
+    "route": "/resources/calculating-lost-lockout-revenue",
+    "status": 200
+  },
+  {
+    "locale": "de-DE",
+    "route": "/resources/calculating-lost-lockout-revenue",
+    "status": 200
+  },
+  {
+    "locale": "tr-TR",
+    "route": "/resources/calculating-lost-lockout-revenue",
+    "status": 200
+  },
+  {
+    "locale": "no-NO",
+    "route": "/resources/calculating-lost-lockout-revenue",
+    "status": 200
+  },
+  {
+    "locale": "sv-SE",
+    "route": "/resources/calculating-lost-lockout-revenue",
+    "status": 200
+  },
+  {
+    "locale": "ar-SA",
+    "route": "/resources/calculating-lost-lockout-revenue",
+    "status": 200
+  },
+  {
+    "locale": "en-GB",
+    "route": "/resources/lishi-picking-telephony-protocols",
+    "status": 200
+  },
+  {
+    "locale": "fi-FI",
+    "route": "/resources/lishi-picking-telephony-protocols",
+    "status": 200
+  },
+  {
+    "locale": "de-DE",
+    "route": "/resources/lishi-picking-telephony-protocols",
+    "status": 200
+  },
+  {
+    "locale": "sv-SE",
+    "route": "/resources/lishi-picking-telephony-protocols",
+    "status": 200
+  },
+  {
+    "locale": "tr-TR",
+    "route": "/resources/lishi-picking-telephony-protocols",
+    "status": 200
+  },
+  {
+    "locale": "nl-NL",
+    "route": "/resources/lishi-picking-telephony-protocols",
+    "status": 200
+  },
+  {
+    "locale": "no-NO",
+    "route": "/resources/lishi-picking-telephony-protocols",
+    "status": 200
+  },
+  {
+    "locale": "ar-SA",
+    "route": "/resources/lishi-picking-telephony-protocols",
+    "status": 200
+  },
+  {
+    "locale": "en-GB",
+    "route": "/resources/gdpr-whatsapp-locksmith-compliance",
+    "status": 200
+  },
+  {
+    "locale": "fi-FI",
+    "route": "/resources/gdpr-whatsapp-locksmith-compliance",
+    "status": 200
+  },
+  {
+    "locale": "nl-NL",
+    "route": "/resources/gdpr-whatsapp-locksmith-compliance",
+    "status": 200
+  },
+  {
+    "locale": "de-DE",
+    "route": "/resources/gdpr-whatsapp-locksmith-compliance",
+    "status": 200
+  },
+  {
+    "locale": "tr-TR",
+    "route": "/resources/gdpr-whatsapp-locksmith-compliance",
+    "status": 200
+  },
+  {
+    "locale": "no-NO",
+    "route": "/resources/gdpr-whatsapp-locksmith-compliance",
+    "status": 200
+  },
+  {
+    "locale": "sv-SE",
+    "route": "/resources/gdpr-whatsapp-locksmith-compliance",
+    "status": 200
+  },
+  {
+    "locale": "ar-SA",
+    "route": "/resources/gdpr-whatsapp-locksmith-compliance",
+    "status": 200
+  },
+  {
+    "locale": "en-GB",
+    "route": "/legal/privacy",
+    "status": 200
+  },
+  {
+    "locale": "tr-TR",
+    "route": "/legal/privacy",
+    "status": 200
+  },
+  {
+    "locale": "de-DE",
+    "route": "/legal/privacy",
+    "status": 200
+  },
+  {
+    "locale": "fi-FI",
+    "route": "/legal/privacy",
+    "status": 200
+  },
+  {
+    "locale": "no-NO",
+    "route": "/legal/privacy",
+    "status": 200
+  },
+  {
+    "locale": "nl-NL",
+    "route": "/legal/privacy",
+    "status": 200
+  },
+  {
+    "locale": "sv-SE",
+    "route": "/legal/privacy",
+    "status": 200
+  },
+  {
+    "locale": "ar-SA",
+    "route": "/legal/privacy",
+    "status": 200
+  },
+  {
+    "locale": "en-GB",
+    "route": "/legal/terms",
+    "status": 200
+  },
+  {
+    "locale": "nl-NL",
+    "route": "/legal/terms",
+    "status": 200
+  },
+  {
+    "locale": "de-DE",
+    "route": "/legal/terms",
+    "status": 200
+  },
+  {
+    "locale": "fi-FI",
+    "route": "/legal/terms",
+    "status": 200
+  },
+  {
+    "locale": "no-NO",
+    "route": "/legal/terms",
+    "status": 200
+  },
+  {
+    "locale": "sv-SE",
+    "route": "/legal/terms",
+    "status": 200
+  },
+  {
+    "locale": "tr-TR",
+    "route": "/legal/terms",
+    "status": 200
+  },
+  {
+    "locale": "ar-SA",
+    "route": "/legal/terms",
+    "status": 200
+  },
+  {
+    "locale": "en-GB",
+    "route": "/legal/cookies",
+    "status": 200
+  },
+  {
+    "locale": "no-NO",
+    "route": "/legal/cookies",
+    "status": 200
+  },
+  {
+    "locale": "fi-FI",
+    "route": "/legal/cookies",
+    "status": 200
+  },
+  {
+    "locale": "de-DE",
+    "route": "/legal/cookies",
+    "status": 200
+  },
+  {
+    "locale": "nl-NL",
+    "route": "/legal/cookies",
+    "status": 200
+  },
+  {
+    "locale": "sv-SE",
+    "route": "/legal/cookies",
+    "status": 200
+  },
+  {
+    "locale": "tr-TR",
+    "route": "/legal/cookies",
+    "status": 200
+  },
+  {
+    "locale": "ar-SA",
+    "route": "/legal/cookies",
+    "status": 200
+  }
+]
