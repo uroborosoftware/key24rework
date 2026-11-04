@@ -1,0 +1,274 @@
+{
+  "en": {
+    "labels": [
+      "Choose a situation",
+      "All keys lost",
+      "Keys locked inside",
+      "Remote not working",
+      "Technician",
+      "Customer"
+    ],
+    "scenarios": {
+      "lost": [
+        "Hello, Key twenty-four auto locksmith service. How can I help?",
+        "Hi, I've lost all the keys to my twenty twenty Volkswagen Golf.",
+        "All right. Is there a working spare, and where is the car?",
+        "No spare, unfortunately. The car is outside my house.",
+        "Understood. Our example price is three hundred and fifty euros, subject to checking the vehicle. Would tomorrow between ten and eleven suit you? We can request the location through WhatsApp with your permission.",
+        "Yes, that works. You can message me on WhatsApp. Thank you."
+      ],
+      "lockout": [
+        "Hello, Key twenty-four auto locksmith service. How can I help?",
+        "Hi, the key is locked inside my Ford Focus. I'm in a supermarket car park.",
+        "I see. Is anyone inside the car, and is there a spare key available?",
+        "No one is inside, and the spare is too far away.",
+        "All right. Our example opening price is one hundred and twenty euros, subject to checking the vehicle. With your permission, we can request a WhatsApp location pin."
+      ],
+      "remote": [
+        "Hello, Key twenty-four auto locksmith service. How can I help?",
+        "Hello, my Toyota remote won't unlock the doors, but the spare works.",
+        "Thanks, that helps. Have you tried a fresh battery of the correct type, following the owner's manual?",
+        "Yes, a new battery, but the buttons still don't work.",
+        "Then it needs inspection rather than assuming it's just the battery. We can arrange an example diagnostic appointment. We won't quote a repair price before checking the key."
+      ]
+    }
+  },
+  "de": {
+    "labels": [
+      "Situation auswählen",
+      "Alle Schlüssel verloren",
+      "Schlüssel im Fahrzeug",
+      "Fernbedienung defekt",
+      "Techniker",
+      "Kunde"
+    ],
+    "scenarios": {
+      "lost": [
+        "Guten Tag, Key vierundzwanzig Autoschlüsseldienst. Wie kann ich Ihnen helfen?",
+        "Hallo, ich habe alle Schlüssel für meinen Volkswagen Golf von zweitausendzwanzig verloren.",
+        "Verstehe. Gibt es noch einen funktionierenden Ersatzschlüssel, und wo steht das Auto?",
+        "Leider keinen Ersatzschlüssel. Das Auto steht vor meinem Haus.",
+        "In Ordnung. Unser Beispielpreis beträgt dreihundertfünfzig Euro, nach technischer Prüfung. Passt Ihnen morgen zwischen zehn und elf Uhr? Mit Ihrer Erlaubnis fragen wir den Standort über WhatsApp ab.",
+        "Ja, das passt. Sie dürfen mir über WhatsApp schreiben. Vielen Dank."
+      ],
+      "lockout": [
+        "Guten Tag, Key vierundzwanzig Autoschlüsseldienst. Wie kann ich Ihnen helfen?",
+        "Hallo, mein Schlüssel liegt im verschlossenen Ford Focus auf dem Supermarktparkplatz.",
+        "Verstehe. Ist jemand im Fahrzeug, und haben Sie einen Ersatzschlüssel?",
+        "Niemand ist drin. Der Ersatzschlüssel ist leider weit weg.",
+        "In Ordnung. Unser Beispielpreis für die Öffnung beträgt hundertzwanzig Euro, nach Prüfung des Fahrzeugs. Mit Ihrer Erlaubnis fragen wir den Standort über WhatsApp ab."
+      ],
+      "remote": [
+        "Guten Tag, Key vierundzwanzig Autoschlüsseldienst. Wie kann ich Ihnen helfen?",
+        "Hallo, die Fernbedienung meines Toyota öffnet die Türen nicht, aber der Ersatzschlüssel funktioniert.",
+        "Danke, das hilft. Haben Sie eine neue Batterie des richtigen Typs nach der Betriebsanleitung ausprobiert?",
+        "Ja, eine neue Batterie. Die Tasten funktionieren trotzdem nicht.",
+        "Dann sollte der Schlüssel geprüft werden. Es muss nicht an der Batterie liegen. Wir können einen Beispieltermin zur Diagnose planen. Einen Reparaturpreis nennen wir erst nach der Prüfung."
+      ]
+    }
+  },
+  "nl": {
+    "labels": [
+      "Kies een situatie",
+      "Alle sleutels kwijt",
+      "Sleutels in de auto",
+      "Afstandsbediening werkt niet",
+      "Monteur",
+      "Klant"
+    ],
+    "scenarios": {
+      "lost": [
+        "Goedendag, Key vierentwintig autosleutelservice. Waarmee kan ik u helpen?",
+        "Hallo, ik ben alle sleutels van mijn Volkswagen Golf uit tweeduizendtwintig kwijt.",
+        "Dat is vervelend. Heeft u nog een werkende reservesleutel, en waar staat de auto?",
+        "Helaas niet. De auto staat voor mijn huis.",
+        "Duidelijk. Onze voorbeeldprijs is driehonderdvijftig euro, na technische controle. Past morgen tussen tien en elf uur? Met uw toestemming vragen we de locatie via WhatsApp.",
+        "Ja, prima. U mag me via WhatsApp een bericht sturen. Bedankt."
+      ],
+      "lockout": [
+        "Goedendag, Key vierentwintig autosleutelservice. Waarmee kan ik u helpen?",
+        "Hallo, mijn sleutel ligt in mijn afgesloten Ford Focus op de parkeerplaats van de supermarkt.",
+        "Ik begrijp het. Zit er iemand in de auto, en heeft u een reservesleutel?",
+        "Er zit niemand in. De reservesleutel is helaas ver weg.",
+        "Goed. Onze voorbeeldprijs voor openen is honderdtwintig euro, na controle van de auto. Met uw toestemming vragen we de locatie via WhatsApp."
+      ],
+      "remote": [
+        "Goedendag, Key vierentwintig autosleutelservice. Waarmee kan ik u helpen?",
+        "Hallo, de afstandsbediening van mijn Toyota opent de deuren niet, maar de reservesleutel werkt.",
+        "Dank u, dat helpt. Heeft u een nieuwe batterij van het juiste type geprobeerd, volgens de handleiding?",
+        "Ja, een nieuwe batterij. De knoppen werken nog steeds niet.",
+        "Dan moet de sleutel onderzocht worden. Het ligt niet noodzakelijk aan de batterij. We kunnen een voorbeeldafspraak voor diagnose plannen. Een reparatieprijs volgt pas na controle."
+      ]
+    }
+  },
+  "fi": {
+    "labels": [
+      "Valitse tilanne",
+      "Kaikki avaimet kadonneet",
+      "Avaimet lukitussa autossa",
+      "Kaukosäädin ei toimi",
+      "Asentaja",
+      "Asiakas"
+    ],
+    "scenarios": {
+      "lost": [
+        "Hei, Key kaksikymmentäneljä auton avainpalvelu. Kuinka voin auttaa?",
+        "Hei, kaikki Volkswagen Golfini avaimet ovat kadonneet. Auto on vuosimallia kaksituhattakaksikymmentä.",
+        "Selvä. Onko toimivaa vara-avainta, ja missä auto on?",
+        "Vara-avainta ei ole. Auto on kotini edessä.",
+        "Ymmärrän. Esimerkkihinta on kolmesataaviisikymmentä euroa, teknisen tarkistuksen jälkeen. Sopiiko huomenna kymmenen ja yhdentoista välillä? Voimme pyytää sijainnin WhatsAppissa luvallasi.",
+        "Kyllä, se sopii. Voitte lähettää WhatsApp-viestin. Kiitos."
+      ],
+      "lockout": [
+        "Hei, Key kaksikymmentäneljä auton avainpalvelu. Kuinka voin auttaa?",
+        "Hei, avain jäi lukittuun Ford Focukseen kaupan pysäköintipaikalla.",
+        "Selvä. Onko autossa ketään, ja onko vara-avainta saatavilla?",
+        "Autossa ei ole ketään. Vara-avain on liian kaukana.",
+        "Hyvä. Avaamisen esimerkkihinta on satakaksikymmentä euroa auton tarkistuksen jälkeen. Luvallasi voimme pyytää sijainnin WhatsAppissa."
+      ],
+      "remote": [
+        "Hei, Key kaksikymmentäneljä auton avainpalvelu. Kuinka voin auttaa?",
+        "Hei, Toyotani kaukosäädin ei avaa ovia, mutta vara-avain toimii.",
+        "Kiitos tiedosta. Oletko kokeillut uutta oikeantyyppistä paristoa käyttöohjeen mukaisesti?",
+        "Kyllä, paristo on uusi, mutta painikkeet eivät toimi.",
+        "Silloin avain pitää tarkistaa. Vika ei välttämättä ole paristossa. Voimme suunnitella esimerkkiajan vian selvittämiseen. Korjaushinta annetaan vasta tarkistuksen jälkeen."
+      ]
+    }
+  },
+  "tr": {
+    "labels": [
+      "Durum seçin",
+      "Bütün anahtarlar kayıp",
+      "Anahtar araçta kaldı",
+      "Kumanda çalışmıyor",
+      "Teknisyen",
+      "Müşteri"
+    ],
+    "scenarios": {
+      "lost": [
+        "Merhaba, Key twenty-four oto anahtar servisi. Size nasıl yardımcı olabilirim?",
+        "Merhaba, iki bin yirmi model Volkswagen Golf'üm var. Bütün anahtarlarımı kaybettim.",
+        "Geçmiş olsun. Peki, çalışan bir yedek anahtarınız var mı? Araç nerede şu an?",
+        "Maalesef yedek de yok. Araç evimin önünde duruyor.",
+        "Tamam. Bu işlem için örnek fiyatımız üç yüz elli avro. Aracı kontrol edince netleştiriyoruz. Yarın onla on bir arası size uyar mı? İsterseniz konumu da WhatsApp'tan paylaşabilirsiniz.",
+        "Evet, o saat uygun. WhatsApp'tan yazabilirsiniz. Çok teşekkür ederim."
+      ],
+      "lockout": [
+        "Merhaba, Key twenty-four oto anahtar servisi. Size nasıl yardımcı olabilirim?",
+        "Merhaba, anahtarım kilitli Ford Focus'un içinde kaldı. Marketin otoparkındayım.",
+        "Anladım. Önce şunu sorayım, içeride birisi var mı? Bir de yedek anahtara ulaşabiliyor musunuz?",
+        "İçeride kimse yok. Yedek anahtar da çok uzakta.",
+        "Tamam, yardımcı olalım. Bu örnekte açılış ücreti yüz yirmi avro. Aracı görünce uygunluğu kontrol ediyoruz. Size WhatsApp'tan yazıp konum isteyebilir miyiz?"
+      ],
+      "remote": [
+        "Merhaba, Key twenty-four oto anahtar servisi. Size nasıl yardımcı olabilirim?",
+        "Merhaba, Toyota'mın kumandası kapıları açmıyor ama yedek anahtar çalışıyor.",
+        "Anladım. Kumandaya, kullanım kılavuzunda belirtilen tipte yeni bir pil takıp denediniz mi?",
+        "Evet, yeni pil taktım ama düğmeler hâlâ çalışmıyor.",
+        "Tamam, o zaman sadece pil diyemeyiz. Anahtarı bir kontrol edelim. İnceleme için örnek randevu planlayabiliriz. Fiyatı da arızayı gördükten sonra söylemek daha doğru olur."
+      ]
+    }
+  },
+  "no": {
+    "labels": [
+      "Velg en situasjon",
+      "Alle nøkler mistet",
+      "Nøkler innelåst",
+      "Fjernkontrollen virker ikke",
+      "Tekniker",
+      "Kunde"
+    ],
+    "scenarios": {
+      "lost": [
+        "Hei, Key tjuefire bilnøkkelservice. Hva kan jeg hjelpe deg med?",
+        "Hei, jeg har mistet alle nøklene til min Volkswagen Golf fra tjue tjue.",
+        "Det var leit. Har du en fungerende reservenøkkel, og hvor står bilen?",
+        "Nei, dessverre. Bilen står utenfor huset mitt.",
+        "Forstått. Eksempelprisen er tre hundre og femti euro, etter teknisk kontroll. Passer i morgen mellom ti og elleve? Med din tillatelse kan vi be om posisjonen på WhatsApp.",
+        "Ja, det passer. Dere kan sende meg en melding på WhatsApp. Takk."
+      ],
+      "lockout": [
+        "Hei, Key tjuefire bilnøkkelservice. Hva kan jeg hjelpe deg med?",
+        "Hei, nøkkelen ligger inne i min låste Ford Focus på parkeringsplassen ved butikken.",
+        "Forstått. Er det noen i bilen, og har du en reservenøkkel tilgjengelig?",
+        "Ingen er i bilen. Reservenøkkelen er dessverre langt unna.",
+        "Greit. Eksempelprisen for åpning er hundre og tjue euro etter kontroll av bilen. Med din tillatelse kan vi be om posisjonen på WhatsApp."
+      ],
+      "remote": [
+        "Hei, Key tjuefire bilnøkkelservice. Hva kan jeg hjelpe deg med?",
+        "Hei, fjernkontrollen til min Toyota åpner ikke dørene, men reservenøkkelen virker.",
+        "Takk, det er nyttig. Har du prøvd et nytt batteri av riktig type, slik instruksjonsboken beskriver?",
+        "Ja, batteriet er nytt, men knappene virker fortsatt ikke.",
+        "Da bør nøkkelen undersøkes. Det er ikke nødvendigvis batteriet. Vi kan planlegge en eksempelavtale for feilsøking. Reparasjonspris gis først etter kontroll."
+      ]
+    }
+  },
+  "sv": {
+    "labels": [
+      "Välj en situation",
+      "Alla nycklar borttappade",
+      "Nycklar inlåsta",
+      "Fjärrkontrollen fungerar inte",
+      "Tekniker",
+      "Kund"
+    ],
+    "scenarios": {
+      "lost": [
+        "Hej, Key tjugofyra bilnyckelservice. Hur kan jag hjälpa dig?",
+        "Hej, jag har tappat alla nycklar till min Volkswagen Golf från tjugo tjugo.",
+        "Jag förstår. Har du en fungerande reservnyckel, och var står bilen?",
+        "Nej, tyvärr. Bilen står utanför mitt hus.",
+        "Okej. Exempelpriset är trehundrafemtio euro efter teknisk kontroll. Passar i morgon mellan tio och elva? Med ditt tillstånd kan vi be om platsen via WhatsApp.",
+        "Ja, det passar. Ni får skicka ett meddelande på WhatsApp. Tack så mycket."
+      ],
+      "lockout": [
+        "Hej, Key tjugofyra bilnyckelservice. Hur kan jag hjälpa dig?",
+        "Hej, nyckeln ligger i min låsta Ford Focus på butikens parkering.",
+        "Jag förstår. Är någon inne i bilen, och finns en reservnyckel tillgänglig?",
+        "Ingen är i bilen. Reservnyckeln är tyvärr långt borta.",
+        "Okej. Exempelpriset för öppning är hundratjugo euro efter kontroll av bilen. Med ditt tillstånd kan vi be om platsen via WhatsApp."
+      ],
+      "remote": [
+        "Hej, Key tjugofyra bilnyckelservice. Hur kan jag hjälpa dig?",
+        "Hej, fjärrkontrollen till min Toyota öppnar inte dörrarna, men reservnyckeln fungerar.",
+        "Tack, det hjälper. Har du provat ett nytt batteri av rätt typ enligt instruktionsboken?",
+        "Ja, batteriet är nytt, men knapparna fungerar fortfarande inte.",
+        "Då behöver nyckeln undersökas. Det är inte säkert att batteriet är orsaken. Vi kan planera en exempelbokning för felsökning. Reparationspris ges efter kontroll."
+      ]
+    }
+  },
+  "ar": {
+    "labels": [
+      "اختر الحالة",
+      "فقدان جميع المفاتيح",
+      "المفتاح داخل السيارة المقفلة",
+      "جهاز التحكم لا يعمل",
+      "الفني",
+      "العميل"
+    ],
+    "scenarios": {
+      "lost": [
+        "مرحباً، كي أربعة وعشرين لخدمات مفاتيح السيارات. كيف يمكنني مساعدتك؟",
+        "مرحباً، فقدت جميع مفاتيح سيارتي فولكس فاغن غولف، موديل ألفين وعشرين.",
+        "فهمت. هل لديك مفتاح احتياطي يعمل؟ وأين توجد السيارة الآن؟",
+        "للأسف لا يوجد مفتاح احتياطي. السيارة أمام منزلي.",
+        "حسناً. السعر التوضيحي ثلاثمئة وخمسون يورو، بعد التحقق الفني من السيارة. هل يناسبك غداً بين العاشرة والحادية عشرة؟ وبموافقتك يمكننا طلب الموقع عبر واتساب.",
+        "نعم، الموعد مناسب. يمكنكم مراسلتي عبر واتساب. شكراً جزيلاً."
+      ],
+      "lockout": [
+        "مرحباً، كي أربعة وعشرين لخدمات مفاتيح السيارات. كيف يمكنني مساعدتك؟",
+        "مرحباً، المفتاح داخل سيارتي فورد فوكس المقفلة في موقف المتجر.",
+        "فهمت. هل يوجد أحد داخل السيارة؟ وهل يتوفر مفتاح احتياطي قريب؟",
+        "لا يوجد أحد بالداخل، والمفتاح الاحتياطي بعيد جداً.",
+        "حسناً. السعر التوضيحي لفتح السيارة مئة وعشرون يورو بعد فحص السيارة. بموافقتك يمكننا طلب الموقع عبر واتساب."
+      ],
+      "remote": [
+        "مرحباً، كي أربعة وعشرين لخدمات مفاتيح السيارات. كيف يمكنني مساعدتك؟",
+        "مرحباً، جهاز التحكم في سيارتي تويوتا لا يفتح الأبواب، لكن المفتاح الاحتياطي يعمل.",
+        "شكراً، هذه معلومة مفيدة. هل جربت بطارية جديدة من النوع الصحيح وفق دليل السيارة؟",
+        "نعم، البطارية جديدة لكن الأزرار لا تزال لا تعمل.",
+        "إذن يجب فحص المفتاح، ولا نفترض أن المشكلة من البطارية فقط. يمكننا ترتيب موعد توضيحي للفحص. لا نحدد سعر الإصلاح قبل معرفة العطل."
+      ]
+    }
+  }
+}

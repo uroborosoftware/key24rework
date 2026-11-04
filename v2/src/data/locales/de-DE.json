@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "siteName": "KEY24",
+    "title": "KEY24 | KI-Telefon-Agent, CRM & WhatsApp für Auto-Schlüsseldienste",
+    "description": "Verlieren Sie nie wieder einen lukrativen Notöffnungs-Auftrag während der Arbeit. KEY24 nimmt Anrufe sofort entgegen, erfasst Fahrzeug & Standort, erstellt den Auftrag im CRM und bestätigt per WhatsApp.",
+    "locale": "de-DE"
+  },
+  "nav": {
+    "brandTagline": "Auto-Schlüsseldienst KI",
+    "solutions": {
+      "label": "Lösungen",
+      "agent": { "title": "KI-Anruf-Agent", "desc": "Nimmt sofort ab, wenn Sie bohren, picken oder auf der Autobahn sind", "href": "/solutions/ai-call-agent" },
+      "whatsapp": { "title": "WhatsApp-Automation", "desc": "Sofortige Auftragsbestätigung, Standort-Pin-Anfrage & ETA-Updates", "href": "/solutions/whatsapp" }
+    },
+    "platform": {
+      "label": "Plattform",
+      "crm": { "title": "KEY24 CRM", "desc": "Spezielles Auftragsboard, Disposition und Rechnungsverwaltung", "href": "/platform/crm" }
+    },
+    "customers": { "label": "Kunden & Nachweise", "href": "/customers" },
+    "pricing": { "label": "Preise", "href": "/pricing" },
+    "resources": { "label": "Ressourcen", "href": "/resources" },
+    "contact": { "label": "Kontakt", "href": "/contact" },
+    "bookDemo": "15-Min. Demo buchen"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "SPEZIELL FÜR KFZ-SCHLÜSSELDIENSTE ENTWICKELT",
+      "headline": "Sie sind beim Kunden vor Ort. Ihr nächster Auftrag ruft an.",
+      "lead": "Wenn Sie gerade an einem Zylinderschloss picken oder einen Funkschlüssel codieren, können Sie nicht ans Telefon gehen. KEY24s Sprach-KI nimmt sofort ab, erfasst Automarke, Baujahr, Standort und Schlüsselstatus, legt den Auftrag im CRM an und bestätigt das Ankunftsfenster sofort beim Fahrer.",
+      "primaryCta": "15-Minuten-Demo vereinbaren",
+      "secondaryCta": "Produkt-Tour ansehen",
+      "operationalWidget": {
+        "status": "LIVE-DISPOSITION AKTIV",
+        "badge": "Betriebsstandard",
+        "statLabel": "Durchschnittliche Antwortzeit",
+        "statValue": "< 1,2s",
+        "description": "Keine verpassten Notöffnungs-Aufträge während laufender Vor-Ort-Einsätze.",
+        "sampleCall": "„VW Golf 2020, Schlüssel im Kofferraum, Parkhaus Frankfurt Hbf. Disponiert.“"
+      }
+    },
+    "painSection": {
+      "eyebrow": "DIE REALITÄT DES KFZ-SCHLÜSSELDIENSTES",
+      "title": "Jeder verpasste Anruf kostet 150 € bis 400 € Umsatz an die Konkurrenz",
+      "lead": "Fahrzeug-Aussperrungen sind zeitkritische Notsituationen. Wenn es zur Mailbox geht, legen gestresste Fahrer nach 10 Sekunden auf und rufen den nächsten Dienst auf Google an.",
+      "cards": [
+        {
+          "situation": "Situation 01",
+          "title": "Hände voll beim Vor-Ort-Einsatz",
+          "desc": "Sie stehen im Regen und codieren gerade ein komplexes Steuergerät. Das Handy klingelt. Entweder brechen Sie ab oder verlieren einen 280 € Notfallauftrag.",
+          "effect": "Mit KEY24: Die Sprach-KI meldet sich professionell in Ihrem Firmennamen, fragt alle Daten ab und trägt den Auftrag direkt in Ihr Board ein."
+        },
+        {
+          "situation": "Situation 02",
+          "title": "Fahrt auf der Autobahn",
+          "desc": "Zwischen zwei Notöffnungen versuchen Sie während der Fahrt im Verkehr, Fahrzeugidentifikationsnummer, Modell und Postleitzahl mitzuschreiben.",
+          "effect": "Mit KEY24: Vollständige Auftragsdaten mit verifizierter Postleitzahl, GPS-Koordinaten und Schadensbild landen sauber im CRM."
+        },
+        {
+          "situation": "Situation 03",
+          "title": "Abend- & Wochenendnotdienste",
+          "desc": "Aussperrungen passieren samstags um 23 Uhr. Entweder stören Sie Ihr Privatleben für Preisauskünfte oder Sie verpassen lukrative Notdiensttarife.",
+          "effect": "Mit KEY24: Konfigurierbare Notdienst-Tarifansagen, Notfall-Weiterleitung bei bestätigter Auftragsabsicht und strukturierte Morgenlisten."
+        }
+      ]
+    },
+    "journeySection": {
+      "eyebrow": "DER 3-SCHRITTE ECHTZEIT-WORKFLOW",
+      "title": "Vom eingehenden Anruf zum disponierten Auftrag in unter 60 Sekunden",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Sofortige KI-Sprachannahme",
+          "desc": "Nimmt nach maximal 2 Klingelzeichen in Ihrer Tonalität ab. Erfragt Standort des Fahrers, Fahrzeugmarke, Modell, Baujahr und Schlüsselstatus."
+        },
+        {
+          "step": "02",
+          "title": "Auftragskarte im KEY24 CRM",
+          "desc": "Strukturiert die Fahrzeugdaten, prüft ob Schlüssel im Auto liegt oder verloren ging, berechnet geschätzte Anfahrtszeit und alarmiert Ihr Smartphone."
+        },
+        {
+          "step": "03",
+          "title": "Automatisierte WhatsApp-Bestätigung",
+          "desc": "Sendet dem Autofahrer eine direkte Bestätigung mit voraussichtlichem Zeitfenster und fordert den genauen WhatsApp-Standort-Pin an."
+        }
+      ]
+    },
+    "crmPreview": {
+      "eyebrow": "SPEZIELL FÜR SCHLÜSSELDIENSTE",
+      "title": "KEY24 CRM: Gebaut für das Einsatzfahrzeug, nicht für den Schreibtisch",
+      "lead": "Keine überladene Bürokratie. Ein kontrastreiches, blitzschnelles Auftragsboard, das sich auf dem Smartphone oder Tablet im Transporter bedienen lässt.",
+      "columns": [
+        { "title": "Neue Anrufe & Anfragen", "count": "3 Aktiv", "sample": "2021 VW Golf - Ersatzschlüssel - Frankfurt Innenstadt" },
+        { "title": "In Anfahrt / Disponiert", "count": "2 Aufträge", "sample": "2018 BMW 3er - Alle Schlüssel verloren - Offenbach" },
+        { "title": "Vor Ort in Arbeit", "count": "1 Auftrag", "sample": "2022 Mercedes A-Klasse - Notöffnung - Mainz Hbf" },
+        { "title": "Abgeschlossen & Bezahlt", "count": "14 Heute", "sample": "Kartenzahlung über SumUp/Zettle synchronisiert" }
+      ]
+    },
+    "pricingPreview": {
+      "eyebrow": "TRANSPARENTE TARIFVORSCHLÄGE",
+      "title": "Enterprise-Technologie skaliert für selbstständige Profis",
+      "note": "Preise in EUR zzgl. gesetzlicher Umsatzsteuer. Verbindliche Konditionen gemäß onboarding-Vertrag.",
+      "cta": "Zur vollständigen Leistungsübersicht"
+    },
+    "faq": {
+      "eyebrow": "HÄUFIG GESTELLTE FRAGEN",
+      "title": "Klare Antworten auf konkrete Fragen aus der Praxis",
+      "items": [
+        {
+          "q": "Kann ich meine bestehende Handynummer oder Festnetznummer behalten?",
+          "a": "Ja. Sie richten einfach bei Ihrem Mobilfunk- oder Telefonanbieter eine bedingte Rufumleitung ein (z. B. wenn besetzt oder nach 3 Freizeichen), die den Anruf zu Ihrer dedizierten KEY24-Agenten-Nummer weiterleitet."
+        },
+        {
+          "q": "Was passiert bei seltenen Fahrzeugen oder Sonderfällen?",
+          "a": "Die KEY24-KI verfügt über eine strukturierte Fahrzeugdatenbank. Erkennt sie ein ungewöhnliches Fabrikat oder eine unklare Lage, verspricht sie dem Anrufer einen schnellen Rückruf durch den Meister und schickt Ihnen eine Sofort-Benachrichtigung mit hoher Priorität."
+        },
+        {
+          "q": "Erfordert der WhatsApp-Versand die Einwilligung des Anrufers?",
+          "a": "Ja, absolut. Gemäß DSGVO und den Richtlinien von Meta fragt die Sprach-KI am Telefon: 'Dürfen wir Ihnen die Auftragsbestätigung und den Anfahrts-Link an diese Handynummer per WhatsApp senden?' Erst nach Zustimmung wird die Nachricht ausgelöst."
+        },
+        {
+          "q": "Kann die KI meine individuellen Festpreise nennen?",
+          "a": "Ja. Während des Onboardings hinterlegen wir Ihre konkreten Preisspannen (z. B. einfache Türöffnung, Laserschlüssel-Fräsen, Transponder-Programmierung und Nachtzuschläge)."
+        }
+      ]
+    }
+  },
+  "footer": {
+    "statement": "KEY24 ist ein spezialisiertes Technologiesystem für Kfz-Schlüsseldienste: mit intelligenter Anrufannahme durch Sprach-KI, eigenem CRM-Auftragsboard und DSGVO-konformer WhatsApp-Kundenkommunikation in Deutschland, Österreich und Europa.",
+    "col1Title": "Lösungen & Plattform",
+    "col2Title": "Einsatzgebiete",
+    "col3Title": "Ressourcen & Tools",
+    "col4Title": "Unternehmen & Rechtliches",
+    "copyright": "© 2026 KEY24 Technologies. Alle Rechte vorbehalten. Entwickelt nach IBM Carbon Design Tokens."
+  }
+}

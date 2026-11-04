@@ -1,0 +1,306 @@
+{
+  "en": [
+    [
+      "Locked out",
+      "My keys are locked inside my VW Golf. Can you help?"
+    ],
+    [
+      "Spare key",
+      "I'd like a spare car key. I still have one working key."
+    ],
+    [
+      "Plan a visit",
+      "Can I bring my car in on Tuesday?"
+    ],
+    [
+      "All keys lost",
+      "I've lost all the keys to my Ford Focus. Can you make a new one?"
+    ],
+    [
+      "Ignition trouble",
+      "The key won't turn in the ignition of my 2005 Golf."
+    ],
+    [
+      "Keyless spare",
+      "I have a working key and want a second keyless remote."
+    ],
+    [
+      "Price enquiry",
+      "How much does a new car key cost?"
+    ],
+    [
+      "Service area",
+      "Can you come to my car, or should I visit the workshop?"
+    ],
+    [
+      "After hours",
+      "You're closed now. Can I arrange something for tomorrow?"
+    ]
+  ],
+  "de": [
+    [
+      "Ausgesperrt",
+      "Mein Schlüssel liegt im verschlossenen VW Golf. Können Sie helfen?"
+    ],
+    [
+      "Ersatzschlüssel",
+      "Ich möchte einen Ersatzschlüssel. Ein funktionierender Schlüssel ist vorhanden."
+    ],
+    [
+      "Besuch planen",
+      "Kann ich mein Auto am Dienstag vorbeibringen?"
+    ],
+    [
+      "Alle Schlüssel verloren",
+      "Ich habe alle Schlüssel für meinen Ford Focus verloren."
+    ],
+    [
+      "Zündschloss",
+      "Mein Golf-Schlüssel von 2005 dreht nicht im Zündschloss."
+    ],
+    [
+      "Keyless-Ersatz",
+      "Ich möchte eine zweite Keyless-Fernbedienung. Eine funktioniert noch."
+    ],
+    [
+      "Preis anfragen",
+      "Was kostet ein neuer Autoschlüssel?"
+    ],
+    [
+      "Einsatzgebiet",
+      "Kommen Sie zum Fahrzeug oder muss ich zur Werkstatt?"
+    ],
+    [
+      "Nach Feierabend",
+      "Kann ich nach Feierabend etwas für morgen vereinbaren?"
+    ]
+  ],
+  "tr": [
+    [
+      "Kapıda kaldım",
+      "Anahtarım VW Golf'ün içinde kilitli kaldı. Yardımcı olur musunuz?"
+    ],
+    [
+      "Yedek anahtar",
+      "Bir yedek anahtar istiyorum. Elimde çalışan bir anahtar var."
+    ],
+    [
+      "Ziyaret planla",
+      "Salı günü aracımı getirebilir miyim?"
+    ],
+    [
+      "Tüm anahtarlar kayıp",
+      "Ford Focus aracımın bütün anahtarlarını kaybettim."
+    ],
+    [
+      "Kontak sorunu",
+      "2005 Golf aracımın anahtarı kontakta dönmüyor."
+    ],
+    [
+      "Keyless yedek",
+      "Çalışan anahtarım var, ikinci bir keyless kumanda istiyorum."
+    ],
+    [
+      "Fiyat sor",
+      "Yeni araç anahtarı ne kadar tutar?"
+    ],
+    [
+      "Servis bölgesi",
+      "Aracın yanına geliyor musunuz, dükkâna mı gelmeliyim?"
+    ],
+    [
+      "Mesai dışında",
+      "Şu an kapalısınız. Yarın için bir şey ayarlayabilir miyiz?"
+    ]
+  ],
+  "nl": [
+    [
+      "Buitengesloten",
+      "Mijn sleutel ligt in mijn afgesloten VW Golf. Kunt u helpen?"
+    ],
+    [
+      "Reservesleutel",
+      "Ik wil een reservesleutel. Ik heb nog een werkende sleutel."
+    ],
+    [
+      "Bezoek plannen",
+      "Kan ik mijn auto dinsdag langsbrengen?"
+    ],
+    [
+      "Alle sleutels kwijt",
+      "Ik ben alle sleutels van mijn Ford Focus kwijt."
+    ],
+    [
+      "Contactslot",
+      "De sleutel van mijn Golf uit 2005 draait niet in het contactslot."
+    ],
+    [
+      "Keyless reserve",
+      "Ik wil een tweede keyless afstandsbediening. Eén werkt nog."
+    ],
+    [
+      "Prijs opvragen",
+      "Wat kost een nieuwe autosleutel?"
+    ],
+    [
+      "Werkgebied",
+      "Komt u naar de auto of moet ik naar de werkplaats?"
+    ],
+    [
+      "Buiten openingstijd",
+      "Kan ik nu alvast iets voor morgen afspreken?"
+    ]
+  ],
+  "fi": [
+    [
+      "Lukittu auto",
+      "Avain jäi lukittuun Volkswagen Golfiin. Voitteko auttaa?"
+    ],
+    [
+      "Vara-avain",
+      "Haluan vara-avaimen. Minulla on yksi toimiva avain."
+    ],
+    [
+      "Käynnin suunnittelu",
+      "Voinko tuoda auton tiistaina?"
+    ],
+    [
+      "Kaikki avaimet kadonneet",
+      "Kaikki Ford Focukseni avaimet ovat kadonneet."
+    ],
+    [
+      "Virtalukon ongelma",
+      "Vuoden 2005 Golfini avain ei käänny virtalukossa."
+    ],
+    [
+      "Avaimeton vara-avain",
+      "Haluan toisen avaimettoman kaukosäätimen. Yksi toimii vielä."
+    ],
+    [
+      "Hintakysely",
+      "Mitä uusi auton avain maksaa?"
+    ],
+    [
+      "Palvelualue",
+      "Tuletteko auton luo vai tuonko sen korjaamolle?"
+    ],
+    [
+      "Aukioloajan jälkeen",
+      "Voinko varata huomiselle ajan, vaikka olette nyt kiinni?"
+    ]
+  ],
+  "no": [
+    [
+      "Utelåst",
+      "Nøkkelen ligger i min låste Volkswagen Golf. Kan dere hjelpe?"
+    ],
+    [
+      "Reservenøkkel",
+      "Jeg vil ha en reservenøkkel. Jeg har én som virker."
+    ],
+    [
+      "Planlegg besøk",
+      "Kan jeg komme med bilen på tirsdag?"
+    ],
+    [
+      "Alle nøkler mistet",
+      "Jeg har mistet alle nøklene til min Ford Focus."
+    ],
+    [
+      "Tenningslås",
+      "Nøkkelen til min Golf fra 2005 vrir seg ikke i tenningen."
+    ],
+    [
+      "Nøkkelfri reserve",
+      "Jeg ønsker en ekstra nøkkelfri fjernkontroll. Én virker fortsatt."
+    ],
+    [
+      "Spør om pris",
+      "Hva koster en ny bilnøkkel?"
+    ],
+    [
+      "Tjenesteområde",
+      "Kommer dere til bilen eller må jeg til verkstedet?"
+    ],
+    [
+      "Etter stengetid",
+      "Kan jeg avtale noe for i morgen selv om dere har stengt?"
+    ]
+  ],
+  "sv": [
+    [
+      "Utelåst",
+      "Nyckeln ligger i min låsta Volkswagen Golf. Kan ni hjälpa mig?"
+    ],
+    [
+      "Reservnyckel",
+      "Jag vill ha en reservnyckel. Jag har en som fungerar."
+    ],
+    [
+      "Planera besök",
+      "Kan jag komma med bilen på tisdag?"
+    ],
+    [
+      "Alla nycklar borta",
+      "Jag har tappat alla nycklar till min Ford Focus."
+    ],
+    [
+      "Tändningslås",
+      "Nyckeln till min Golf från 2005 går inte att vrida i tändningslåset."
+    ],
+    [
+      "Nyckelfri reserv",
+      "Jag vill ha en extra nyckelfri fjärrkontroll. En fungerar fortfarande."
+    ],
+    [
+      "Fråga om pris",
+      "Vad kostar en ny bilnyckel?"
+    ],
+    [
+      "Serviceområde",
+      "Kommer ni till bilen eller ska jag åka till verkstaden?"
+    ],
+    [
+      "Efter stängning",
+      "Kan jag boka något till i morgon fast ni har stängt?"
+    ]
+  ],
+  "ar": [
+    [
+      "المفتاح داخل السيارة",
+      "المفتاح داخل سيارتي غولف المقفلة. هل يمكنكم مساعدتي؟"
+    ],
+    [
+      "مفتاح احتياطي",
+      "أريد مفتاحاً احتياطياً، ولدي مفتاح يعمل."
+    ],
+    [
+      "ترتيب زيارة",
+      "هل يمكنني إحضار السيارة يوم الثلاثاء؟"
+    ],
+    [
+      "فقدان جميع المفاتيح",
+      "فقدت جميع مفاتيح سيارتي فورد فوكس."
+    ],
+    [
+      "مشكلة مفتاح التشغيل",
+      "مفتاح سيارتي غولف موديل ألفين وخمسة لا يدور في قفل التشغيل."
+    ],
+    [
+      "مفتاح ذكي إضافي",
+      "أريد جهاز تحكم ذكياً إضافياً، ولدي واحد يعمل."
+    ],
+    [
+      "السؤال عن السعر",
+      "كم يكلف مفتاح سيارة جديد؟"
+    ],
+    [
+      "منطقة الخدمة",
+      "هل تأتون إلى السيارة أم أحضرها إلى الورشة؟"
+    ],
+    [
+      "خارج الدوام",
+      "هل يمكنني ترتيب موعد للغد رغم انتهاء الدوام؟"
+    ]
+  ]
+}

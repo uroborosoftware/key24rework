@@ -1,0 +1,947 @@
+{
+  "en": [
+    {
+      "id": "lockout",
+      "label": "Keys locked inside",
+      "lines": [
+        "Hello, Key twenty-four auto locksmith service. How can I help?",
+        "Hi, the key is locked inside my Ford Focus. I'm in a supermarket car park.",
+        "I see. Is anyone inside the car, and is there a spare key available?",
+        "No one is inside, and the spare is too far away.",
+        "All right. Our example opening price is one hundred and twenty euros, subject to checking the vehicle. With your permission, we can request a WhatsApp location pin."
+      ],
+      "src": "/audio/key24-lockout-en.mp3"
+    },
+    {
+      "id": "spare",
+      "label": "Spare key",
+      "lines": [
+        "Hello, Key twenty-four auto locksmith service. How can I help?",
+        "I would like a spare key for my car.",
+        "What is the make, model and year? Do you still have a working key? These details help the team check the options."
+      ],
+      "src": "/audio/key24-spare-en.mp3"
+    },
+    {
+      "id": "visit",
+      "label": "Plan a visit",
+      "lines": [
+        "Hello, Key twenty-four auto locksmith service. How can I help?",
+        "Can I bring my car in on Tuesday?",
+        "What time would suit you? Our team can check availability and confirm a suitable appointment."
+      ],
+      "src": "/audio/key24-visit-en.mp3"
+    },
+    {
+      "id": "lost",
+      "label": "All keys lost",
+      "lines": [
+        "Hello, Key twenty-four auto locksmith service. How can I help?",
+        "Hi, I've lost all the keys to my twenty twenty Volkswagen Golf.",
+        "All right. Is there a working spare, and where is the car?",
+        "No spare, unfortunately. The car is outside my house.",
+        "Understood. Our example price is three hundred and fifty euros, subject to checking the vehicle. Would tomorrow between ten and eleven suit you? We can request the location through WhatsApp with your permission.",
+        "Yes, that works. You can message me on WhatsApp. Thank you."
+      ],
+      "src": "/audio/key24-sample-en.mp3"
+    },
+    {
+      "id": "ignition",
+      "label": "Ignition trouble",
+      "lines": [
+        "Hello, Key twenty-four auto locksmith service. How can I help?",
+        "My 2005 Golf key will not turn in the ignition.",
+        "Do the dashboard lights come on, and does the key move at all? A short video can help the team review the problem. Please do not force the key."
+      ],
+      "src": "/audio/key24-ignition-en.mp3"
+    },
+    {
+      "id": "keyless",
+      "label": "Keyless spare",
+      "lines": [
+        "Hello, Key twenty-four auto locksmith service. How can I help?",
+        "I have a working key but want a second keyless remote.",
+        "What is the make, model and year? Is it a push-button start vehicle? The team can check the correct remote and confirm a quote."
+      ],
+      "src": "/audio/key24-keyless-en.mp3"
+    },
+    {
+      "id": "price",
+      "label": "Price enquiry",
+      "lines": [
+        "Hello, Key twenty-four auto locksmith service. How can I help?",
+        "How much does a replacement car key cost?",
+        "It depends on the vehicle, key type and whether a working key remains. Tell us the make, model and year so the team can check your options and confirm the price."
+      ],
+      "src": "/audio/key24-price-en.mp3"
+    },
+    {
+      "id": "area",
+      "label": "Service area",
+      "lines": [
+        "Hello, Key twenty-four auto locksmith service. How can I help?",
+        "Can you come to my car, or do I need to visit the shop?",
+        "What town or postcode is the vehicle in? We can check the service area and whether a mobile visit or workshop appointment is suitable."
+      ],
+      "src": "/audio/key24-area-en.mp3"
+    },
+    {
+      "id": "afterhours",
+      "label": "After hours",
+      "lines": [
+        "Hello, Key twenty-four auto locksmith service. How can I help?",
+        "You are closed now. Can I arrange something for tomorrow?",
+        "You can leave the vehicle details, contact number and preferred time here. The team will check availability and confirm the appointment. For urgent help, follow the business’s stated callout instructions."
+      ],
+      "src": "/audio/key24-afterhours-en.mp3"
+    },
+    {
+      "id": "remote",
+      "label": "Remote not working",
+      "lines": [
+        "Hello, Key twenty-four auto locksmith service. How can I help?",
+        "Hello, my Toyota remote won't unlock the doors, but the spare works.",
+        "Thanks, that helps. Have you tried a fresh battery of the correct type, following the owner's manual?",
+        "Yes, a new battery, but the buttons still don't work.",
+        "Then it needs inspection rather than assuming it's just the battery. We can arrange an example diagnostic appointment. We won't quote a repair price before checking the key."
+      ],
+      "src": "/audio/key24-remote-en.mp3"
+    }
+  ],
+  "de": [
+    {
+      "id": "lockout",
+      "label": "Schlüssel im Fahrzeug",
+      "lines": [
+        "Guten Tag, Key vierundzwanzig Autoschlüsseldienst. Wie kann ich Ihnen helfen?",
+        "Hallo, mein Schlüssel liegt im verschlossenen Ford Focus auf dem Supermarktparkplatz.",
+        "Verstehe. Ist jemand im Fahrzeug, und haben Sie einen Ersatzschlüssel?",
+        "Niemand ist drin. Der Ersatzschlüssel ist leider weit weg.",
+        "In Ordnung. Unser Beispielpreis für die Öffnung beträgt hundertzwanzig Euro, nach Prüfung des Fahrzeugs. Mit Ihrer Erlaubnis fragen wir den Standort über WhatsApp ab."
+      ],
+      "src": "/audio/key24-lockout-de.mp3"
+    },
+    {
+      "id": "spare",
+      "label": "Ersatzschlüssel",
+      "lines": [
+        "Guten Tag, Key vierundzwanzig Autoschlüsseldienst. Wie kann ich Ihnen helfen?",
+        "Ich möchte einen Ersatzschlüssel für mein Auto.",
+        "Welche Marke, welches Modell und Baujahr? Gibt es noch einen funktionierenden Schlüssel? So kann das Team die Optionen prüfen."
+      ],
+      "src": "/audio/key24-spare-de.mp3"
+    },
+    {
+      "id": "visit",
+      "label": "Besuch planen",
+      "lines": [
+        "Guten Tag, Key vierundzwanzig Autoschlüsseldienst. Wie kann ich Ihnen helfen?",
+        "Kann ich mein Auto am Dienstag vorbeibringen?",
+        "Welche Uhrzeit passt dir? Unser Team prüft die Verfügbarkeit und bestätigt einen passenden Termin."
+      ],
+      "src": "/audio/key24-visit-de.mp3"
+    },
+    {
+      "id": "lost",
+      "label": "Alle Schlüssel verloren",
+      "lines": [
+        "Guten Tag, Key vierundzwanzig Autoschlüsseldienst. Wie kann ich Ihnen helfen?",
+        "Hallo, ich habe alle Schlüssel für meinen Volkswagen Golf von zweitausendzwanzig verloren.",
+        "Verstehe. Gibt es noch einen funktionierenden Ersatzschlüssel, und wo steht das Auto?",
+        "Leider keinen Ersatzschlüssel. Das Auto steht vor meinem Haus.",
+        "In Ordnung. Unser Beispielpreis beträgt dreihundertfünfzig Euro, nach technischer Prüfung. Passt Ihnen morgen zwischen zehn und elf Uhr? Mit Ihrer Erlaubnis fragen wir den Standort über WhatsApp ab.",
+        "Ja, das passt. Sie dürfen mir über WhatsApp schreiben. Vielen Dank."
+      ],
+      "src": "/audio/key24-sample-de.mp3"
+    },
+    {
+      "id": "ignition",
+      "label": "Zündschloss",
+      "lines": [
+        "Guten Tag, Key vierundzwanzig Autoschlüsseldienst. Wie kann ich Ihnen helfen?",
+        "Mein Golf-Schlüssel von 2005 dreht im Zündschloss nicht.",
+        "Leuchten die Anzeigen im Armaturenbrett und bewegt sich der Schlüssel überhaupt? Ein kurzes Video hilft dem Team bei der Einschätzung. Bitte den Schlüssel nicht mit Gewalt drehen."
+      ],
+      "src": "/audio/key24-ignition-de.mp3"
+    },
+    {
+      "id": "keyless",
+      "label": "Keyless-Ersatz",
+      "lines": [
+        "Guten Tag, Key vierundzwanzig Autoschlüsseldienst. Wie kann ich Ihnen helfen?",
+        "Ich habe einen funktionierenden Schlüssel und möchte eine zweite Keyless-Fernbedienung.",
+        "Welche Marke, welches Modell und Baujahr? Hat das Fahrzeug einen Startknopf? Das Team prüft die passende Fernbedienung und bestätigt ein Angebot."
+      ],
+      "src": "/audio/key24-keyless-de.mp3"
+    },
+    {
+      "id": "price",
+      "label": "Preis anfragen",
+      "lines": [
+        "Guten Tag, Key vierundzwanzig Autoschlüsseldienst. Wie kann ich Ihnen helfen?",
+        "Was kostet ein neuer Autoschlüssel?",
+        "Das hängt vom Fahrzeug, Schlüsseltyp und einem noch vorhandenen Schlüssel ab. Nennen Sie Marke, Modell und Baujahr, damit das Team Optionen und Preis bestätigen kann."
+      ],
+      "src": "/audio/key24-price-de.mp3"
+    },
+    {
+      "id": "area",
+      "label": "Einsatzgebiet",
+      "lines": [
+        "Guten Tag, Key vierundzwanzig Autoschlüsseldienst. Wie kann ich Ihnen helfen?",
+        "Kommen Sie zum Auto oder muss ich zur Werkstatt?",
+        "In welchem Ort oder Postleitzahlgebiet steht das Fahrzeug? Wir prüfen das Einsatzgebiet und ob ein mobiler Besuch oder Werkstatttermin passt."
+      ],
+      "src": "/audio/key24-area-de.mp3"
+    },
+    {
+      "id": "afterhours",
+      "label": "Nach Feierabend",
+      "lines": [
+        "Guten Tag, Key vierundzwanzig Autoschlüsseldienst. Wie kann ich Ihnen helfen?",
+        "Sie haben schon geschlossen. Kann ich etwas für morgen vereinbaren?",
+        "Hinterlassen Sie Fahrzeugdaten, Telefonnummer und Wunschzeit. Das Team prüft die Verfügbarkeit und bestätigt den Termin. Für dringende Hilfe gelten die angegebenen Notdiensthinweise."
+      ],
+      "src": "/audio/key24-afterhours-de.mp3"
+    },
+    {
+      "id": "remote",
+      "label": "Fernbedienung defekt",
+      "lines": [
+        "Guten Tag, Key vierundzwanzig Autoschlüsseldienst. Wie kann ich Ihnen helfen?",
+        "Hallo, die Fernbedienung meines Toyota öffnet die Türen nicht, aber der Ersatzschlüssel funktioniert.",
+        "Danke, das hilft. Haben Sie eine neue Batterie des richtigen Typs nach der Betriebsanleitung ausprobiert?",
+        "Ja, eine neue Batterie. Die Tasten funktionieren trotzdem nicht.",
+        "Dann sollte der Schlüssel geprüft werden. Es muss nicht an der Batterie liegen. Wir können einen Beispieltermin zur Diagnose planen. Einen Reparaturpreis nennen wir erst nach der Prüfung."
+      ],
+      "src": "/audio/key24-remote-de.mp3"
+    }
+  ],
+  "nl": [
+    {
+      "id": "lockout",
+      "label": "Sleutels in de auto",
+      "lines": [
+        "Goedendag, Key vierentwintig autosleutelservice. Waarmee kan ik u helpen?",
+        "Hallo, mijn sleutel ligt in mijn afgesloten Ford Focus op de parkeerplaats van de supermarkt.",
+        "Ik begrijp het. Zit er iemand in de auto, en heeft u een reservesleutel?",
+        "Er zit niemand in. De reservesleutel is helaas ver weg.",
+        "Goed. Onze voorbeeldprijs voor openen is honderdtwintig euro, na controle van de auto. Met uw toestemming vragen we de locatie via WhatsApp."
+      ],
+      "src": "/audio/key24-lockout-nl.mp3"
+    },
+    {
+      "id": "spare",
+      "label": "Reservesleutel",
+      "lines": [
+        "Goedendag, Key vierentwintig autosleutelservice. Waarmee kan ik u helpen?",
+        "Ik wil een reservesleutel. Ik heb nog een werkende sleutel.",
+        "Natuurlijk. Welk merk, model en bouwjaar heeft de auto? Heeft u nog een werkende sleutel? Daarmee kunnen we de juiste uitvoering controleren."
+      ],
+      "src": "/audio/key24-spare-nl.mp3"
+    },
+    {
+      "id": "visit",
+      "label": "Bezoek plannen",
+      "lines": [
+        "Goedendag, Key vierentwintig autosleutelservice. Waarmee kan ik u helpen?",
+        "Kan ik mijn auto dinsdag langsbrengen?",
+        "Welke tijd past u? We kunnen uw voorkeur noteren en de beschikbaarheid controleren voordat we een afspraak bevestigen."
+      ],
+      "src": "/audio/key24-visit-nl.mp3"
+    },
+    {
+      "id": "lost",
+      "label": "Alle sleutels kwijt",
+      "lines": [
+        "Goedendag, Key vierentwintig autosleutelservice. Waarmee kan ik u helpen?",
+        "Hallo, ik ben alle sleutels van mijn Volkswagen Golf uit tweeduizendtwintig kwijt.",
+        "Dat is vervelend. Heeft u nog een werkende reservesleutel, en waar staat de auto?",
+        "Helaas niet. De auto staat voor mijn huis.",
+        "Duidelijk. Onze voorbeeldprijs is driehonderdvijftig euro, na technische controle. Past morgen tussen tien en elf uur? Met uw toestemming vragen we de locatie via WhatsApp.",
+        "Ja, prima. U mag me via WhatsApp een bericht sturen. Bedankt."
+      ],
+      "src": "/audio/key24-sample-nl.mp3"
+    },
+    {
+      "id": "ignition",
+      "label": "Contactslot",
+      "lines": [
+        "Goedendag, Key vierentwintig autosleutelservice. Waarmee kan ik u helpen?",
+        "De sleutel van mijn Golf uit 2005 draait niet in het contactslot.",
+        "Gaan de lampjes op het dashboard aan, en beweegt de sleutel nog? Forceer de sleutel niet. Een korte video kan helpen bij de beoordeling."
+      ],
+      "src": "/audio/key24-ignition-nl.mp3"
+    },
+    {
+      "id": "keyless",
+      "label": "Keyless reserve",
+      "lines": [
+        "Goedendag, Key vierentwintig autosleutelservice. Waarmee kan ik u helpen?",
+        "Ik wil een tweede keyless afstandsbediening. Eén werkt nog.",
+        "Welk merk, model en bouwjaar is het? Heeft de auto een startknop? We controleren de juiste afstandsbediening voordat we een prijs bevestigen."
+      ],
+      "src": "/audio/key24-keyless-nl.mp3"
+    },
+    {
+      "id": "price",
+      "label": "Prijs opvragen",
+      "lines": [
+        "Goedendag, Key vierentwintig autosleutelservice. Waarmee kan ik u helpen?",
+        "Wat kost een nieuwe autosleutel?",
+        "Dat hangt af van de auto, het type sleutel en of u nog een werkende sleutel heeft. Om welke auto en welk soort aanvraag gaat het?"
+      ],
+      "src": "/audio/key24-price-nl.mp3"
+    },
+    {
+      "id": "area",
+      "label": "Werkgebied",
+      "lines": [
+        "Goedendag, Key vierentwintig autosleutelservice. Waarmee kan ik u helpen?",
+        "Komt u naar de auto of moet ik naar de werkplaats?",
+        "In welke plaats of postcode staat de auto? We controleren dan of een mobiele afspraak of een bezoek aan de werkplaats mogelijk is."
+      ],
+      "src": "/audio/key24-area-nl.mp3"
+    },
+    {
+      "id": "afterhours",
+      "label": "Buiten openingstijd",
+      "lines": [
+        "Goedendag, Key vierentwintig autosleutelservice. Waarmee kan ik u helpen?",
+        "Kan ik nu alvast iets voor morgen afspreken?",
+        "U kunt alvast de voertuiggegevens en uw gewenste tijd doorgeven. Het team controleert de beschikbaarheid en bevestigt de afspraak."
+      ],
+      "src": "/audio/key24-afterhours-nl.mp3"
+    },
+    {
+      "id": "remote",
+      "label": "Afstandsbediening werkt niet",
+      "lines": [
+        "Goedendag, Key vierentwintig autosleutelservice. Waarmee kan ik u helpen?",
+        "Hallo, de afstandsbediening van mijn Toyota opent de deuren niet, maar de reservesleutel werkt.",
+        "Dank u, dat helpt. Heeft u een nieuwe batterij van het juiste type geprobeerd, volgens de handleiding?",
+        "Ja, een nieuwe batterij. De knoppen werken nog steeds niet.",
+        "Dan moet de sleutel onderzocht worden. Het ligt niet noodzakelijk aan de batterij. We kunnen een voorbeeldafspraak voor diagnose plannen. Een reparatieprijs volgt pas na controle."
+      ],
+      "src": "/audio/key24-remote-nl.mp3"
+    }
+  ],
+  "fi": [
+    {
+      "id": "lockout",
+      "label": "Avaimet lukitussa autossa",
+      "lines": [
+        "Hei, Key kaksikymmentäneljä auton avainpalvelu. Kuinka voin auttaa?",
+        "Hei, avain jäi lukittuun Ford Focukseen kaupan pysäköintipaikalla.",
+        "Selvä. Onko autossa ketään, ja onko vara-avainta saatavilla?",
+        "Autossa ei ole ketään. Vara-avain on liian kaukana.",
+        "Hyvä. Avaamisen esimerkkihinta on satakaksikymmentä euroa auton tarkistuksen jälkeen. Luvallasi voimme pyytää sijainnin WhatsAppissa."
+      ],
+      "src": "/audio/key24-lockout-fi.mp3"
+    },
+    {
+      "id": "spare",
+      "label": "Vara-avain",
+      "lines": [
+        "Hei, Key kaksikymmentäneljä auton avainpalvelu. Kuinka voin auttaa?",
+        "Haluan vara-avaimen. Minulla on yksi toimiva avain.",
+        "Totta kai. Mikä on auton merkki, malli ja vuosimalli? Onko sinulla toimiva avain? Näin voimme tarkistaa sopivan vaihtoehdon."
+      ],
+      "src": "/audio/key24-spare-fi.mp3"
+    },
+    {
+      "id": "visit",
+      "label": "Käynnin suunnittelu",
+      "lines": [
+        "Hei, Key kaksikymmentäneljä auton avainpalvelu. Kuinka voin auttaa?",
+        "Voinko tuoda auton tiistaina?",
+        "Mikä kellonaika sopisi? Voimme kirjata toiveesi ja tarkistaa vapaat ajat ennen vahvistusta."
+      ],
+      "src": "/audio/key24-visit-fi.mp3"
+    },
+    {
+      "id": "lost",
+      "label": "Kaikki avaimet kadonneet",
+      "lines": [
+        "Hei, Key kaksikymmentäneljä auton avainpalvelu. Kuinka voin auttaa?",
+        "Hei, kaikki Volkswagen Golfini avaimet ovat kadonneet. Auto on vuosimallia kaksituhattakaksikymmentä.",
+        "Selvä. Onko toimivaa vara-avainta, ja missä auto on?",
+        "Vara-avainta ei ole. Auto on kotini edessä.",
+        "Ymmärrän. Esimerkkihinta on kolmesataaviisikymmentä euroa, teknisen tarkistuksen jälkeen. Sopiiko huomenna kymmenen ja yhdentoista välillä? Voimme pyytää sijainnin WhatsAppissa luvallasi.",
+        "Kyllä, se sopii. Voitte lähettää WhatsApp-viestin. Kiitos."
+      ],
+      "src": "/audio/key24-sample-fi.mp3"
+    },
+    {
+      "id": "ignition",
+      "label": "Virtalukon ongelma",
+      "lines": [
+        "Hei, Key kaksikymmentäneljä auton avainpalvelu. Kuinka voin auttaa?",
+        "Vuoden 2005 Golfini avain ei käänny virtalukossa.",
+        "Syttyvätkö mittariston valot, ja liikkuuko avain lainkaan? Älä käännä sitä väkisin. Lyhyt video voi auttaa tilanteen arvioinnissa."
+      ],
+      "src": "/audio/key24-ignition-fi.mp3"
+    },
+    {
+      "id": "keyless",
+      "label": "Avaimeton vara-avain",
+      "lines": [
+        "Hei, Key kaksikymmentäneljä auton avainpalvelu. Kuinka voin auttaa?",
+        "Haluan toisen avaimettoman kaukosäätimen. Yksi toimii vielä.",
+        "Mikä on auton merkki, malli ja vuosimalli? Käynnistyykö se painikkeesta? Tarkistamme oikean kaukosäätimen ennen hintatarjousta."
+      ],
+      "src": "/audio/key24-keyless-fi.mp3"
+    },
+    {
+      "id": "price",
+      "label": "Hintakysely",
+      "lines": [
+        "Hei, Key kaksikymmentäneljä auton avainpalvelu. Kuinka voin auttaa?",
+        "Mitä uusi auton avain maksaa?",
+        "Hinta riippuu autosta, avaimen tyypistä ja siitä, onko toimivaa avainta jäljellä. Mistä autosta ja millaisesta palvelusta on kyse?"
+      ],
+      "src": "/audio/key24-price-fi.mp3"
+    },
+    {
+      "id": "area",
+      "label": "Palvelualue",
+      "lines": [
+        "Hei, Key kaksikymmentäneljä auton avainpalvelu. Kuinka voin auttaa?",
+        "Tuletteko auton luo vai tuonko sen korjaamolle?",
+        "Missä kaupungissa tai postinumeroalueella auto on? Tarkistamme, sopiiko liikkuva palvelu vai käynti korjaamolla."
+      ],
+      "src": "/audio/key24-area-fi.mp3"
+    },
+    {
+      "id": "afterhours",
+      "label": "Aukioloajan jälkeen",
+      "lines": [
+        "Hei, Key kaksikymmentäneljä auton avainpalvelu. Kuinka voin auttaa?",
+        "Voinko varata huomiselle ajan, vaikka olette nyt kiinni?",
+        "Voit antaa auton tiedot ja toivotun ajan jo nyt. Tiimi tarkistaa saatavuuden ja vahvistaa ajan."
+      ],
+      "src": "/audio/key24-afterhours-fi.mp3"
+    },
+    {
+      "id": "remote",
+      "label": "Kaukosäädin ei toimi",
+      "lines": [
+        "Hei, Key kaksikymmentäneljä auton avainpalvelu. Kuinka voin auttaa?",
+        "Hei, Toyotani kaukosäädin ei avaa ovia, mutta vara-avain toimii.",
+        "Kiitos tiedosta. Oletko kokeillut uutta oikeantyyppistä paristoa käyttöohjeen mukaisesti?",
+        "Kyllä, paristo on uusi, mutta painikkeet eivät toimi.",
+        "Silloin avain pitää tarkistaa. Vika ei välttämättä ole paristossa. Voimme suunnitella esimerkkiajan vian selvittämiseen. Korjaushinta annetaan vasta tarkistuksen jälkeen."
+      ],
+      "src": "/audio/key24-remote-fi.mp3"
+    }
+  ],
+  "tr": [
+    {
+      "id": "lockout",
+      "label": "Anahtar araçta kaldı",
+      "lines": [
+        "Merhaba, Key twenty-four oto anahtar servisi. Size nasıl yardımcı olabilirim?",
+        "Merhaba, Ford Focus'umun anahtarı içeride kaldı. Kapılar da kilitlendi, marketin otoparkındayım.",
+        "Geçmiş olsun. Önce güvenlik için sorayım, aracın içinde çocuk, bir kişi ya da hayvan var mı?",
+        "Hayır, içeride kimse yok. Anahtar koltuğun üstünde duruyor.",
+        "Tamam. Araç kaç model? Bir de yakınınızda ulaşabileceğiniz yedek anahtar var mı?",
+        "İki bin on dokuz model. Yedek evde ama başka şehirdeyim.",
+        "Anladım. Örnek açılış ücretimiz yüz yirmi avro. Aracın uygunluğunu kontrol ettikten sonra netleşir. Hangi otoparkta olduğunuzu paylaşabilir misiniz?",
+        "Merkez marketin açık otoparkındayım, giriş kapısına yakınım. WhatsApp'tan konum atabilirim.",
+        "Olur, izninizle WhatsApp üzerinden konum isteyelim. Talebinizi araç bilgileriyle hazırlayalım; teknisyen uygunluğu ve varış süresi ayrıca teyit edilecek.",
+        "Tamamdır, çok teşekkür ederim. Ben aracın yanında bekliyorum.",
+        "Rica ederim. İşlem öncesinde kimlik ve araç sahipliği kontrolü yapılacak. İyi günler, görüşmek üzere."
+      ],
+      "src": "/audio/key24-lockout-tr.mp3"
+    },
+    {
+      "id": "spare",
+      "label": "Yedek anahtar",
+      "lines": [
+        "Merhaba, Key twenty-four oto anahtar servisi. Size nasıl yardımcı olabilirim?",
+        "Merhaba, Renault Clio'm için yedek anahtar yaptırmak istiyorum. Tek anahtarla kalmak istemiyorum.",
+        "Çok iyi düşünmüşsünüz. Araç kaç model ve mevcut anahtar aracı sorunsuz çalıştırıyor mu?",
+        "İki bin on sekiz model, evet çalıştırıyor. Sadece ikinci bir anahtar istiyorum.",
+        "Peki, düğmeyle mi çalışıyor yoksa anahtarı kontağa takıyor musunuz?",
+        "Anahtarı kontağa takıyorum. Kapıları da kumandayla açıyorum.",
+        "Anladım. Çalışan anahtardan standart yedek için örnek fiyatımız yüz seksen avro. Uygun anahtar türü araç kontrolüyle doğrulanır.",
+        "Tamam, aracı getirirken mevcut anahtarı da getirmem gerekiyor mu?",
+        "Evet, mevcut çalışan anahtarı da getirin. Yarın on ile on bir arasını örnek ziyaret tercihi olarak alabiliriz. Size uygun olur mu?",
+        "Evet, uygundur. Ruhsatım ve anahtarımla gelirim.",
+        "Güzel, talebiniz yedek anahtar olarak netleşti. Saatin kesin teyidi ekibimizden gelecek. Teşekkürler, iyi günler."
+      ],
+      "src": "/audio/key24-spare-tr.mp3"
+    },
+    {
+      "id": "visit",
+      "label": "Ziyaret planla",
+      "lines": [
+        "Merhaba, Key twenty-four oto anahtar servisi. Size nasıl yardımcı olabilirim?",
+        "Merhaba, aracımı anahtar kontrolü için getirmek istiyorum. Salı günü gelebilir miyim?",
+        "Tabii, ne gibi bir sorun yaşıyorsunuz? Ona göre doğru iş için randevu talebi açalım.",
+        "Opel Astra'nın kumandası bazen çalışıyor bazen çalışmıyor. İki bin on yedi model.",
+        "Anladım. Elinizdeki yedek anahtarda da aynı sorun oluyor mu?",
+        "Yedek sorunsuz çalışıyor, aracı da getirebilirim. Öğleden sonra benim için daha iyi.",
+        "O zaman salı öğleden sonrayı tercih olarak not edelim. Takvimde uygunluk doğrulanmadan kesin saat vermeyelim. Size geri dönüş yapılması uygun mu?",
+        "Olur. İki gibi gelebilsem çok iyi olur.",
+        "Saat iki tercihinizi ekleyelim. Kontrolde sorunlu anahtarı ve çalışan yedeği birlikte görmek faydalı olur. İkisini de getirebilir misiniz?",
+        "Evet, ikisini de getirebilirim. Teyit gelince yola çıkarım.",
+        "Tamam, aynı şekilde ilerleyelim. Randevu teyidi olmadan yola çıkmayın lütfen. Teşekkür ederim, iyi günler."
+      ],
+      "src": "/audio/key24-visit-tr.mp3"
+    },
+    {
+      "id": "lost",
+      "label": "Bütün anahtarlar kayıp",
+      "lines": [
+        "Merhaba, Key twenty-four oto anahtar servisi. Size nasıl yardımcı olabilirim?",
+        "Merhaba, Volkswagen Golf'üm var. Bütün anahtarlarımı kaybettim, ne yapacağımı bilemedim.",
+        "Yardımcı olalım. Aracınız kaç model, elinizde çalışan tek bir anahtar da mı kalmadı?",
+        "İki bin yirmi model. Maalesef hiç anahtar kalmadı.",
+        "Anladım. Araç şu an kilitli mi, düğmeyle mi çalışıyor?",
+        "Evet, kilitli. Düğmeyle çalışıyordu. Evimin önünde duruyor.",
+        "O zaman bunu bütün anahtarların kaybı olarak değerlendirelim. Örnek ücret üç yüz elli avro; bu araçta teknik uygunluk kontrol edilmeden kesinleştirmeyelim.",
+        "Peki, yarın sabah için bir şey ayarlayabilir miyiz?",
+        "Yarın on ile on bir arasını örnek randevu tercihi olarak alabiliriz. Ekibin uygunluğu ve fiyatı teyit etmesi gerekiyor. Konum için WhatsApp'tan yazmamız uygun mu?",
+        "Evet, o saat uygun. WhatsApp'tan da yazabilirsiniz.",
+        "Tamam, araç ve zaman tercihiniz netleşti. Kimlik ve sahiplik doğrulaması işlem öncesi yapılacak. Teşekkür ederim, iyi günler."
+      ],
+      "src": "/audio/key24-sample-tr.mp3"
+    },
+    {
+      "id": "ignition",
+      "label": "Kontak sorunu",
+      "lines": [
+        "Merhaba, Key twenty-four oto anahtar servisi. Size nasıl yardımcı olabilirim?",
+        "Merhaba, iki bin beş Golf'ümün anahtarı kontakta dönmüyor. Birkaç kere denedim ama olmadı.",
+        "Geçmiş olsun. Anahtarı zorlamayın lütfen. Hiç hareket ediyor mu, yoksa tamamen sabit mi?",
+        "Çok az oynuyor ama çeviremiyorum. Gösterge ışıkları da yanmıyor.",
+        "Anladım. Elinizde yedek anahtar var mı, onunla da aynı durum oluyor mu?",
+        "Yedeği de denedim, o da dönmedi. Araba evin önünde.",
+        "O zaman uzaktan sadece anahtar arızası demeyelim; kontak ve ilgili parçalar yerinde değerlendirilmeli. Araç şu an güvenli bir yerde mi?",
+        "Evet, güvenli. Bu iş ne kadar tutar?",
+        "Kontrol etmeden onarım fiyatı vermek doğru olmaz. İsterseniz kısa bir video ve konumla inceleme talebi hazırlayalım. WhatsApp'tan iletişim uygun mu?",
+        "Evet, uygun. Zorlamayı bırakıyorum, video da paylaşabilirim.",
+        "Doğru olur. Anahtarı ve kontağı zorlamadan inceleme sonucunu bekleyin. Ekibin değerlendirmesiyle sonraki adım netleşecek. İyi günler."
+      ],
+      "src": "/audio/key24-ignition-tr.mp3"
+    },
+    {
+      "id": "keyless",
+      "label": "Keyless yedek",
+      "lines": [
+        "Merhaba, Key twenty-four oto anahtar servisi. Size nasıl yardımcı olabilirim?",
+        "Merhaba, Nissan Qashqai için ikinci bir keyless kumanda istiyorum.",
+        "Tabii. Araç kaç model, şu an kullandığınız anahtar sorunsuz çalışıyor mu?",
+        "İki bin yirmi bir model. Mevcut anahtar çalışıyor, araçta start düğmesi var.",
+        "Anladım. Yani kayıp anahtar değil, çalışan anahtara ek ikinci kumanda istiyorsunuz, doğru mu?",
+        "Evet, eşim de kullansın istiyorum. Her Qashqai'ye yapabiliyor musunuz?",
+        "Model yılı ve anahtar türüne göre teknik uygunluğu kontrol etmek gerekiyor. Kontrol etmeden bu araç için kesin yapılır demeyelim.",
+        "Peki, ne bilgi göndermem gerekiyor? Bir de fiyat öğrenebilir miyim?",
+        "Araç bilgileriyle ve mevcut anahtarın kişisel bilgi içermeyen fotoğrafıyla başlayabiliriz. Keyless kumanda için doğru ürün doğrulandıktan sonra teklif hazırlanır. WhatsApp uygun mu?",
+        "Evet, fotoğrafı gönderebilirim. Teklifi görünce randevu alırım.",
+        "Tamam, önce uygunluk ve teklif, ardından randevu şeklinde ilerleyelim. Çalışan anahtarınızı da ziyaret sırasında getirin. İyi günler."
+      ],
+      "src": "/audio/key24-keyless-tr.mp3"
+    },
+    {
+      "id": "price",
+      "label": "Fiyat sor",
+      "lines": [
+        "Merhaba, Key twenty-four oto anahtar servisi. Size nasıl yardımcı olabilirim?",
+        "Merhaba, yeni araç anahtarı ne kadar diye soracaktım.",
+        "Tabii. Önce hangi iş gerektiğini anlayalım. Yedek mi istiyorsunuz, yoksa bütün anahtarlar mı kayıp?",
+        "Bir anahtarım var. İkinci bir tane istiyorum, Peugeot iki yüz sekiz.",
+        "Araç kaç model ve elinizdeki anahtar aracı sorunsuz çalıştırıyor mu?",
+        "İki bin on altı model. Evet, mevcut anahtarım çalışıyor.",
+        "Anladım. Standart yedek anahtar için örnek ücretimiz yüz seksen avro. Anahtar türü ve teknik uygunluk kontrol edilince fiyat kesinleştirilir.",
+        "Bu, kapı açtırma fiyatından farklı mı? İnternette yüz yirmi görmüştüm.",
+        "Evet, kapı açma ve yeni anahtar yapımı ayrı işlemler. Yüz yirmi avro örnek açılış ücretidir. Sizin talebiniz çalışan anahtardan yedek üretimi.",
+        "Tamam, şimdi anladım. Kontrol için uygun bir zaman sorabilir miyim?",
+        "Elbette. Yarın on ile on bir arasını örnek tercih olarak alabiliriz; ekip uygunluğu teyit edecek. Teşekkürler, iyi günler."
+      ],
+      "src": "/audio/key24-price-tr.mp3"
+    },
+    {
+      "id": "area",
+      "label": "Servis bölgesi",
+      "lines": [
+        "Merhaba, Key twenty-four oto anahtar servisi. Size nasıl yardımcı olabilirim?",
+        "Merhaba, aracın yanına geliyor musunuz yoksa dükkâna mı gelmem gerekiyor?",
+        "İşe ve bulunduğunuz bölgeye göre değişiyor. Hangi konuda yardım gerekiyor?",
+        "Ford Fiesta'nın bütün anahtarları kayıp, aracı çalıştıramıyorum.",
+        "Anladım. Araç kaç model, hangi ilçe veya posta kodunda bulunuyor?",
+        "İki bin on dokuz model. Şehir merkezinin dışında bir köydeyim.",
+        "O zaman önce mobil servis bölgesini kontrol etmek gerekir. Burada gerçek bir bölge haritası bağlı olmadığı için bulunduğunuz yere geliriz diye kesin söz veremem.",
+        "Anladım. Aracı getiremediğime göre ne yapabiliriz?",
+        "Konumunuzu alıp mobil servis uygunluğu için değerlendirme talebi hazırlayabiliriz. Uygun değilse ekip alternatif sonraki adımı açıklayacak. WhatsApp'tan konum paylaşmanız uygun mu?",
+        "Evet, konumu paylaşabilirim. Önce uygunluğu öğrenmek isterim.",
+        "Tamam, önce servis bölgesi ve araç desteği netleştirilsin. Teyit gelmeden araç taşıma gibi bir plan yapmayın. Teşekkür ederim, iyi günler."
+      ],
+      "src": "/audio/key24-area-tr.mp3"
+    },
+    {
+      "id": "afterhours",
+      "label": "Mesai dışında",
+      "lines": [
+        "İyi akşamlar, Key twenty-four oto anahtar servisi. Size nasıl yardımcı olabilirim?",
+        "İyi akşamlar. Saat geç oldu ama yarın için yedek anahtar randevusu almak istiyorum.",
+        "Tabii, talebinizi alabiliriz. Araç marka, model ve yılı nedir?",
+        "İki bin yirmi model Hyundai i yirmi. Bir tane çalışan anahtarım var.",
+        "Tamam, acil kapıda kalma değil, yedek anahtar talebi olarak ilerleyelim. Yarın sabah mı öğleden sonra mı size daha uygun?",
+        "Öğleden sonra iki gibi uygun olur.",
+        "Yarın iki ile üç arasını örnek randevu tercihi olarak alabiliriz. Bu saati ekibin teyit etmesi gerekiyor; şu an kesin randevu oluşturulmuyor.",
+        "Tamam. Bu gece ayrıca bir işlem yapmam gerekiyor mu?",
+        "Hayır, bu talep için çalışan anahtarınızı güvenli tutmanız yeterli. Ziyarete gelirken mevcut anahtarı ve gerekli araç belgelerini getirin. Teyit için WhatsApp uygun mu?",
+        "Evet, uygun. Sabah teyidi beklerim, teşekkür ederim.",
+        "Rica ederim. Talebiniz ve saat tercihiniz netleşti. İyi akşamlar, görüşmek üzere."
+      ],
+      "src": "/audio/key24-afterhours-tr.mp3"
+    },
+    {
+      "id": "remote",
+      "label": "Kumanda çalışmıyor",
+      "lines": [
+        "Merhaba, Key twenty-four oto anahtar servisi. Size nasıl yardımcı olabilirim?",
+        "Merhaba, Toyota Corolla'mın kumandası kapıları açmıyor. Araç iki bin on sekiz model.",
+        "Anladım. Araç çalışıyor mu, sorun sadece kumanda düğmelerinde mi?",
+        "Evet, arabayı çalıştırabiliyorum. Kapı açma düğmelerine basınca tepki yok.",
+        "Peki, yedek anahtarla kapılar açılıyor mu? Kumandayı doğru tipte yeni bir pille denediniz mi?",
+        "Yedek çalışıyor. Kullanım kılavuzunda yazan tipte yeni pil taktım, ama aynı.",
+        "Bu bilgi önemli. O zaman sadece pil diyemeyiz; sorunlu kumandayı kontrol etmek gerekir. Düşme veya suyla temas oldu mu?",
+        "Bir kere yere düştü, suya düşmedi. Yeni kumanda almam şart mı?",
+        "Kontrol etmeden değiştirmek şart demeyelim. Önce arızayı anlayalım, onarım veya değişim seçenekleri ve fiyat sonra netleşsin. Yarın için inceleme tercihi alabiliriz.",
+        "Olur, sabah uygunum. İki anahtarı da getireyim mi?",
+        "Evet, çalışan yedeği de getirin. Yarın on ile on bir arasını örnek tercih olarak alalım, ekip teyit etsin. Teşekkürler, iyi günler."
+      ],
+      "src": "/audio/key24-remote-tr.mp3"
+    }
+  ],
+  "no": [
+    {
+      "id": "lockout",
+      "label": "Nøkler innelåst",
+      "lines": [
+        "Hei, Key tjuefire bilnøkkelservice. Hva kan jeg hjelpe deg med?",
+        "Hei, nøkkelen ligger inne i min låste Ford Focus på parkeringsplassen ved butikken.",
+        "Forstått. Er det noen i bilen, og har du en reservenøkkel tilgjengelig?",
+        "Ingen er i bilen. Reservenøkkelen er dessverre langt unna.",
+        "Greit. Eksempelprisen for åpning er hundre og tjue euro etter kontroll av bilen. Med din tillatelse kan vi be om posisjonen på WhatsApp."
+      ],
+      "src": "/audio/key24-lockout-no.mp3"
+    },
+    {
+      "id": "spare",
+      "label": "Reservenøkkel",
+      "lines": [
+        "Hei, Key tjuefire bilnøkkelservice. Hva kan jeg hjelpe deg med?",
+        "Jeg vil ha en reservenøkkel. Jeg har én som virker.",
+        "Selvfølgelig. Hvilket merke, modell og årsmodell er bilen? Har du en fungerende nøkkel? Da kan vi undersøke riktig løsning."
+      ],
+      "src": "/audio/key24-spare-no.mp3"
+    },
+    {
+      "id": "visit",
+      "label": "Planlegg besøk",
+      "lines": [
+        "Hei, Key tjuefire bilnøkkelservice. Hva kan jeg hjelpe deg med?",
+        "Kan jeg komme med bilen på tirsdag?",
+        "Hvilket tidspunkt passer? Vi kan notere ønsket og sjekke tilgjengeligheten før avtalen bekreftes."
+      ],
+      "src": "/audio/key24-visit-no.mp3"
+    },
+    {
+      "id": "lost",
+      "label": "Alle nøkler mistet",
+      "lines": [
+        "Hei, Key tjuefire bilnøkkelservice. Hva kan jeg hjelpe deg med?",
+        "Hei, jeg har mistet alle nøklene til min Volkswagen Golf fra tjue tjue.",
+        "Det var leit. Har du en fungerende reservenøkkel, og hvor står bilen?",
+        "Nei, dessverre. Bilen står utenfor huset mitt.",
+        "Forstått. Eksempelprisen er tre hundre og femti euro, etter teknisk kontroll. Passer i morgen mellom ti og elleve? Med din tillatelse kan vi be om posisjonen på WhatsApp.",
+        "Ja, det passer. Dere kan sende meg en melding på WhatsApp. Takk."
+      ],
+      "src": "/audio/key24-sample-no.mp3"
+    },
+    {
+      "id": "ignition",
+      "label": "Tenningslås",
+      "lines": [
+        "Hei, Key tjuefire bilnøkkelservice. Hva kan jeg hjelpe deg med?",
+        "Nøkkelen til min Golf fra 2005 vrir seg ikke i tenningen.",
+        "Lyser instrumentpanelet, og beveger nøkkelen seg i det hele tatt? Ikke bruk makt. En kort video kan hjelpe med vurderingen."
+      ],
+      "src": "/audio/key24-ignition-no.mp3"
+    },
+    {
+      "id": "keyless",
+      "label": "Nøkkelfri reserve",
+      "lines": [
+        "Hei, Key tjuefire bilnøkkelservice. Hva kan jeg hjelpe deg med?",
+        "Jeg ønsker en ekstra nøkkelfri fjernkontroll. Én virker fortsatt.",
+        "Hvilket merke, modell og årsmodell? Har bilen startknapp? Vi sjekker riktig fjernkontroll før vi bekrefter prisen."
+      ],
+      "src": "/audio/key24-keyless-no.mp3"
+    },
+    {
+      "id": "price",
+      "label": "Spør om pris",
+      "lines": [
+        "Hei, Key tjuefire bilnøkkelservice. Hva kan jeg hjelpe deg med?",
+        "Hva koster en ny bilnøkkel?",
+        "Det avhenger av bilen, nøkkeltypen og om en fungerende nøkkel finnes. Hvilken bil og hvilken tjeneste gjelder det?"
+      ],
+      "src": "/audio/key24-price-no.mp3"
+    },
+    {
+      "id": "area",
+      "label": "Tjenesteområde",
+      "lines": [
+        "Hei, Key tjuefire bilnøkkelservice. Hva kan jeg hjelpe deg med?",
+        "Kommer dere til bilen eller må jeg til verkstedet?",
+        "Hvilket sted eller postnummer står bilen på? Vi sjekker om mobil service eller verkstedbesøk passer."
+      ],
+      "src": "/audio/key24-area-no.mp3"
+    },
+    {
+      "id": "afterhours",
+      "label": "Etter stengetid",
+      "lines": [
+        "Hei, Key tjuefire bilnøkkelservice. Hva kan jeg hjelpe deg med?",
+        "Kan jeg avtale noe for i morgen selv om dere har stengt?",
+        "Du kan oppgi bilopplysninger og ønsket tidspunkt nå. Teamet sjekker tilgjengeligheten og bekrefter avtalen."
+      ],
+      "src": "/audio/key24-afterhours-no.mp3"
+    },
+    {
+      "id": "remote",
+      "label": "Fjernkontrollen virker ikke",
+      "lines": [
+        "Hei, Key tjuefire bilnøkkelservice. Hva kan jeg hjelpe deg med?",
+        "Hei, fjernkontrollen til min Toyota åpner ikke dørene, men reservenøkkelen virker.",
+        "Takk, det er nyttig. Har du prøvd et nytt batteri av riktig type, slik instruksjonsboken beskriver?",
+        "Ja, batteriet er nytt, men knappene virker fortsatt ikke.",
+        "Da bør nøkkelen undersøkes. Det er ikke nødvendigvis batteriet. Vi kan planlegge en eksempelavtale for feilsøking. Reparasjonspris gis først etter kontroll."
+      ],
+      "src": "/audio/key24-remote-no.mp3"
+    }
+  ],
+  "sv": [
+    {
+      "id": "lockout",
+      "label": "Nycklar inlåsta",
+      "lines": [
+        "Hej, Key tjugofyra bilnyckelservice. Hur kan jag hjälpa dig?",
+        "Hej, nyckeln ligger i min låsta Ford Focus på butikens parkering.",
+        "Jag förstår. Är någon inne i bilen, och finns en reservnyckel tillgänglig?",
+        "Ingen är i bilen. Reservnyckeln är tyvärr långt borta.",
+        "Okej. Exempelpriset för öppning är hundratjugo euro efter kontroll av bilen. Med ditt tillstånd kan vi be om platsen via WhatsApp."
+      ],
+      "src": "/audio/key24-lockout-sv.mp3"
+    },
+    {
+      "id": "spare",
+      "label": "Reservnyckel",
+      "lines": [
+        "Hej, Key tjugofyra bilnyckelservice. Hur kan jag hjälpa dig?",
+        "Jag vill ha en reservnyckel. Jag har en som fungerar.",
+        "Självklart. Vilket märke, modell och årsmodell är bilen? Har du en fungerande nyckel? Då kan vi kontrollera rätt alternativ."
+      ],
+      "src": "/audio/key24-spare-sv.mp3"
+    },
+    {
+      "id": "visit",
+      "label": "Planera besök",
+      "lines": [
+        "Hej, Key tjugofyra bilnyckelservice. Hur kan jag hjälpa dig?",
+        "Kan jag komma med bilen på tisdag?",
+        "Vilken tid passar? Vi kan notera önskemålet och kontrollera lediga tider innan vi bekräftar bokningen."
+      ],
+      "src": "/audio/key24-visit-sv.mp3"
+    },
+    {
+      "id": "lost",
+      "label": "Alla nycklar borttappade",
+      "lines": [
+        "Hej, Key tjugofyra bilnyckelservice. Hur kan jag hjälpa dig?",
+        "Hej, jag har tappat alla nycklar till min Volkswagen Golf från tjugo tjugo.",
+        "Jag förstår. Har du en fungerande reservnyckel, och var står bilen?",
+        "Nej, tyvärr. Bilen står utanför mitt hus.",
+        "Okej. Exempelpriset är trehundrafemtio euro efter teknisk kontroll. Passar i morgon mellan tio och elva? Med ditt tillstånd kan vi be om platsen via WhatsApp.",
+        "Ja, det passar. Ni får skicka ett meddelande på WhatsApp. Tack så mycket."
+      ],
+      "src": "/audio/key24-sample-sv.mp3"
+    },
+    {
+      "id": "ignition",
+      "label": "Tändningslås",
+      "lines": [
+        "Hej, Key tjugofyra bilnyckelservice. Hur kan jag hjälpa dig?",
+        "Nyckeln till min Golf från 2005 går inte att vrida i tändningslåset.",
+        "Lyser instrumentpanelen, och rör sig nyckeln alls? Vrid inte med våld. En kort video kan hjälpa oss att bedöma problemet."
+      ],
+      "src": "/audio/key24-ignition-sv.mp3"
+    },
+    {
+      "id": "keyless",
+      "label": "Nyckelfri reserv",
+      "lines": [
+        "Hej, Key tjugofyra bilnyckelservice. Hur kan jag hjälpa dig?",
+        "Jag vill ha en extra nyckelfri fjärrkontroll. En fungerar fortfarande.",
+        "Vilket märke, modell och årsmodell? Har bilen startknapp? Vi kontrollerar rätt fjärrkontroll innan priset bekräftas."
+      ],
+      "src": "/audio/key24-keyless-sv.mp3"
+    },
+    {
+      "id": "price",
+      "label": "Fråga om pris",
+      "lines": [
+        "Hej, Key tjugofyra bilnyckelservice. Hur kan jag hjälpa dig?",
+        "Vad kostar en ny bilnyckel?",
+        "Det beror på bilen, nyckeltypen och om en fungerande nyckel finns kvar. Vilken bil och vilken tjänst gäller det?"
+      ],
+      "src": "/audio/key24-price-sv.mp3"
+    },
+    {
+      "id": "area",
+      "label": "Serviceområde",
+      "lines": [
+        "Hej, Key tjugofyra bilnyckelservice. Hur kan jag hjälpa dig?",
+        "Kommer ni till bilen eller ska jag åka till verkstaden?",
+        "I vilken ort eller vilket postnummer står bilen? Vi kontrollerar om mobil service eller verkstadsbesök passar."
+      ],
+      "src": "/audio/key24-area-sv.mp3"
+    },
+    {
+      "id": "afterhours",
+      "label": "Efter stängning",
+      "lines": [
+        "Hej, Key tjugofyra bilnyckelservice. Hur kan jag hjälpa dig?",
+        "Kan jag boka något till i morgon fast ni har stängt?",
+        "Du kan lämna biluppgifter och önskad tid redan nu. Teamet kontrollerar tillgängligheten och bekräftar tiden."
+      ],
+      "src": "/audio/key24-afterhours-sv.mp3"
+    },
+    {
+      "id": "remote",
+      "label": "Fjärrkontrollen fungerar inte",
+      "lines": [
+        "Hej, Key tjugofyra bilnyckelservice. Hur kan jag hjälpa dig?",
+        "Hej, fjärrkontrollen till min Toyota öppnar inte dörrarna, men reservnyckeln fungerar.",
+        "Tack, det hjälper. Har du provat ett nytt batteri av rätt typ enligt instruktionsboken?",
+        "Ja, batteriet är nytt, men knapparna fungerar fortfarande inte.",
+        "Då behöver nyckeln undersökas. Det är inte säkert att batteriet är orsaken. Vi kan planera en exempelbokning för felsökning. Reparationspris ges efter kontroll."
+      ],
+      "src": "/audio/key24-remote-sv.mp3"
+    }
+  ],
+  "ar": [
+    {
+      "id": "lockout",
+      "label": "المفتاح داخل السيارة المقفلة",
+      "lines": [
+        "مرحباً، كي أربعة وعشرين لخدمات مفاتيح السيارات. كيف يمكنني مساعدتك؟",
+        "مرحباً، المفتاح داخل سيارتي فورد فوكس المقفلة في موقف المتجر.",
+        "فهمت. هل يوجد أحد داخل السيارة؟ وهل يتوفر مفتاح احتياطي قريب؟",
+        "لا يوجد أحد بالداخل، والمفتاح الاحتياطي بعيد جداً.",
+        "حسناً. السعر التوضيحي لفتح السيارة مئة وعشرون يورو بعد فحص السيارة. بموافقتك يمكننا طلب الموقع عبر واتساب."
+      ],
+      "src": "/audio/key24-lockout-ar.mp3"
+    },
+    {
+      "id": "spare",
+      "label": "مفتاح احتياطي",
+      "lines": [
+        "مرحباً، كي أربعة وعشرين لخدمات مفاتيح السيارات. كيف يمكنني مساعدتك؟",
+        "أريد مفتاحاً احتياطياً، ولدي مفتاح يعمل.",
+        "بالتأكيد. ما نوع السيارة وموديلها وسنة الصنع؟ وهل لديك مفتاح يعمل؟ بهذه المعلومات نتحقق من الخيار المناسب."
+      ],
+      "src": "/audio/key24-spare-ar.mp3"
+    },
+    {
+      "id": "visit",
+      "label": "ترتيب زيارة",
+      "lines": [
+        "مرحباً، كي أربعة وعشرين لخدمات مفاتيح السيارات. كيف يمكنني مساعدتك؟",
+        "هل يمكنني إحضار السيارة يوم الثلاثاء؟",
+        "أي وقت يناسبك؟ يمكننا تسجيل رغبتك والتحقق من المواعيد المتاحة قبل تأكيد الموعد."
+      ],
+      "src": "/audio/key24-visit-ar.mp3"
+    },
+    {
+      "id": "lost",
+      "label": "فقدان جميع المفاتيح",
+      "lines": [
+        "مرحباً، كي أربعة وعشرين لخدمات مفاتيح السيارات. كيف يمكنني مساعدتك؟",
+        "مرحباً، فقدت جميع مفاتيح سيارتي فولكس فاغن غولف، موديل ألفين وعشرين.",
+        "فهمت. هل لديك مفتاح احتياطي يعمل؟ وأين توجد السيارة الآن؟",
+        "للأسف لا يوجد مفتاح احتياطي. السيارة أمام منزلي.",
+        "حسناً. السعر التوضيحي ثلاثمئة وخمسون يورو، بعد التحقق الفني من السيارة. هل يناسبك غداً بين العاشرة والحادية عشرة؟ وبموافقتك يمكننا طلب الموقع عبر واتساب.",
+        "نعم، الموعد مناسب. يمكنكم مراسلتي عبر واتساب. شكراً جزيلاً."
+      ],
+      "src": "/audio/key24-sample-ar.mp3"
+    },
+    {
+      "id": "ignition",
+      "label": "مشكلة مفتاح التشغيل",
+      "lines": [
+        "مرحباً، كي أربعة وعشرين لخدمات مفاتيح السيارات. كيف يمكنني مساعدتك؟",
+        "مفتاح سيارتي غولف موديل ألفين وخمسة لا يدور في قفل التشغيل.",
+        "هل تضيء لوحة العدادات؟ وهل يتحرك المفتاح قليلاً؟ لا تحاول تدويره بالقوة. قد يساعد مقطع فيديو قصير في تقييم المشكلة."
+      ],
+      "src": "/audio/key24-ignition-ar.mp3"
+    },
+    {
+      "id": "keyless",
+      "label": "مفتاح ذكي إضافي",
+      "lines": [
+        "مرحباً، كي أربعة وعشرين لخدمات مفاتيح السيارات. كيف يمكنني مساعدتك؟",
+        "أريد جهاز تحكم ذكياً إضافياً، ولدي واحد يعمل.",
+        "ما نوع السيارة وموديلها وسنة الصنع؟ وهل تعمل بزر تشغيل؟ نتحقق من جهاز التحكم المناسب قبل تأكيد السعر."
+      ],
+      "src": "/audio/key24-keyless-ar.mp3"
+    },
+    {
+      "id": "price",
+      "label": "السؤال عن السعر",
+      "lines": [
+        "مرحباً، كي أربعة وعشرين لخدمات مفاتيح السيارات. كيف يمكنني مساعدتك؟",
+        "كم يكلف مفتاح سيارة جديد؟",
+        "يعتمد السعر على السيارة ونوع المفتاح ووجود مفتاح يعمل. ما السيارة وما الخدمة التي تحتاجها؟"
+      ],
+      "src": "/audio/key24-price-ar.mp3"
+    },
+    {
+      "id": "area",
+      "label": "منطقة الخدمة",
+      "lines": [
+        "مرحباً، كي أربعة وعشرين لخدمات مفاتيح السيارات. كيف يمكنني مساعدتك؟",
+        "هل تأتون إلى السيارة أم أحضرها إلى الورشة؟",
+        "في أي مدينة أو منطقة بريدية توجد السيارة؟ نتحقق بعدها من إمكانية الخدمة المتنقلة أو زيارة الورشة."
+      ],
+      "src": "/audio/key24-area-ar.mp3"
+    },
+    {
+      "id": "afterhours",
+      "label": "خارج الدوام",
+      "lines": [
+        "مرحباً، كي أربعة وعشرين لخدمات مفاتيح السيارات. كيف يمكنني مساعدتك؟",
+        "هل يمكنني ترتيب موعد للغد رغم انتهاء الدوام؟",
+        "يمكنك ترك بيانات السيارة والوقت المفضل الآن. يتحقق الفريق من المواعيد المتاحة ثم يؤكد الموعد."
+      ],
+      "src": "/audio/key24-afterhours-ar.mp3"
+    },
+    {
+      "id": "remote",
+      "label": "جهاز التحكم لا يعمل",
+      "lines": [
+        "مرحباً، كي أربعة وعشرين لخدمات مفاتيح السيارات. كيف يمكنني مساعدتك؟",
+        "مرحباً، جهاز التحكم في سيارتي تويوتا لا يفتح الأبواب، لكن المفتاح الاحتياطي يعمل.",
+        "شكراً، هذه معلومة مفيدة. هل جربت بطارية جديدة من النوع الصحيح وفق دليل السيارة؟",
+        "نعم، البطارية جديدة لكن الأزرار لا تزال لا تعمل.",
+        "إذن يجب فحص المفتاح، ولا نفترض أن المشكلة من البطارية فقط. يمكننا ترتيب موعد توضيحي للفحص. لا نحدد سعر الإصلاح قبل معرفة العطل."
+      ],
+      "src": "/audio/key24-remote-ar.mp3"
+    }
+  ]
+}

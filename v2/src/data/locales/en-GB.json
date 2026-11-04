@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "siteName": "KEY24",
+    "title": "KEY24 | AI Phone Agent, CRM & WhatsApp for Auto Locksmiths",
+    "description": "Never lose a high-value lockout call while on the job. KEY24 answers instantly, qualifies the vehicle and location, schedules the job in your CRM, and sends instant WhatsApp confirmation.",
+    "locale": "en-GB"
+  },
+  "nav": {
+    "brandTagline": "Automotive Locksmith AI",
+    "solutions": {
+      "label": "Solutions",
+      "agent": { "title": "AI Call Agent", "desc": "Answers instantly when you are drilling, picking, or driving", "href": "/solutions/ai-call-agent" },
+      "whatsapp": { "title": "WhatsApp Automation", "desc": "Instant dispatch confirmations, GPS pin requests & ETA updates", "href": "/solutions/whatsapp" }
+    },
+    "platform": {
+      "label": "Platform",
+      "crm": { "title": "KEY24 CRM", "desc": "Purpose-built job board, dispatch pipeline and invoice sync", "href": "/platform/crm" }
+    },
+    "customers": { "label": "Reviews & Proof", "href": "/customers" },
+    "pricing": { "label": "Pricing", "href": "/pricing" },
+    "resources": { "label": "Resources", "href": "/resources" },
+    "contact": { "label": "Contact", "href": "/contact" },
+    "bookDemo": "Book a 15-min demo"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "ENGINEERED SPECIFICALLY FOR AUTO LOCKSMITHS",
+      "headline": "You're on the job. Your next customer is calling.",
+      "lead": "When you are picking an emergency lock or cutting a transponder key, you cannot answer the phone. KEY24's intelligent voice agent answers immediately, captures car make, year, location, and key status, logs it in your KEY24 CRM, and confirms arrival time directly with the driver.",
+      "primaryCta": "Book a 15-minute demo",
+      "secondaryCta": "See live product walkthrough",
+      "operationalWidget": {
+        "status": "LIVE DISPATCHING ACTIVE",
+        "badge": "Operational Standard",
+        "statLabel": "Average Response Latency",
+        "statValue": "< 1.2s",
+        "description": "Zero missed emergency lockouts while your team is on-site.",
+        "sampleCall": "“Ford Focus 2019, all keys lost, stranded at M25 Services. Dispatched.”"
+      }
+    },
+    "painSection": {
+      "eyebrow": "THE REALITY OF ROADSIDE LOCKSMITHING",
+      "title": "Every unanswered ring is €150–€400 lost to a competitor",
+      "lead": "Vehicle lockouts are time-critical emergencies. If you let it ring to voicemail, drivers hang up and dial the next locksmith on Google in 10 seconds.",
+      "cards": [
+        {
+          "situation": "Situation 01",
+          "title": "Hands full on-site",
+          "desc": "You're decoding a high-security lock cylinder under the rain. The phone rings. You either stop your work or lose a €280 emergency job.",
+          "effect": "With KEY24: The AI agent answers in your company voice, verifies all details, and slots it directly into your CRM board."
+        },
+        {
+          "situation": "Situation 02",
+          "title": "Driving between calls",
+          "desc": "Navigating highway traffic while trying to write down VIN numbers, car models, and postcodes on a piece of paper.",
+          "effect": "With KEY24: Clean job cards are created automatically with verified postal codes, GPS pins, and vehicle details."
+        },
+        {
+          "situation": "Situation 03",
+          "title": "Evening & weekend inquiries",
+          "desc": "Lockouts happen at 11 PM on Saturdays. Either sacrifice your family time answering pricing queries or miss premium out-of-hours revenue.",
+          "effect": "With KEY24: Configurable after-hours pricing rules, emergency call forwarding, and structured morning follow-ups."
+        }
+      ]
+    },
+    "journeySection": {
+      "eyebrow": "THE 3-STEP REAL-TIME WORKFLOW",
+      "title": "From inbound call to booked job in under 60 seconds",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Instant AI Voice Answering",
+          "desc": "Answers within 2 rings in your brand voice. Gathers driver location, vehicle make, model, year, and lock/key condition."
+        },
+        {
+          "step": "02",
+          "title": "Instant Job Card in KEY24 CRM",
+          "desc": "Extracts vehicle specifications, checks if keys are inside car or lost, assigns estimated price bracket, and notifies your mobile."
+        },
+        {
+          "step": "03",
+          "title": "Automated WhatsApp Confirmation",
+          "desc": "Sends the stranded motorist immediate text confirmation with estimated arrival window and request for exact WhatsApp live location pin."
+        }
+      ]
+    },
+    "crmPreview": {
+      "eyebrow": "PROPRIETARY LOCKSMITH PLATFORM",
+      "title": "KEY24 CRM: Designed for the van, not a corporate office",
+      "lead": "No complex bloatware. A high-contrast, lightning-fast job board built specifically for auto locksmith technicians on the road.",
+      "columns": [
+        { "title": "New Inbound Leads", "count": "3 Active", "sample": "2021 VW Golf - Spare Key - Birmingham B1" },
+        { "title": "Dispatched / On Route", "count": "2 Jobs", "sample": "2018 BMW 3 Series - All Keys Lost - Manchester M4" },
+        { "title": "In Progress On-Site", "count": "1 Job", "sample": "2022 Mercedes A-Class - Lockout - Leeds LS1" },
+        { "title": "Completed & Invoiced", "count": "14 Today", "sample": "Payment received via card terminal sync" }
+      ]
+    },
+    "pricingPreview": {
+      "eyebrow": "TRANSPARENT PROPOSED TIERS",
+      "title": "Enterprise-grade tooling scaled for independent operators",
+      "note": "Prices shown in EUR plus applicable local taxes. Final contract terms subject to owner onboarding sign-off.",
+      "cta": "View full feature matrix"
+    },
+    "faq": {
+      "eyebrow": "FREQUENTLY ASKED QUESTIONS",
+      "title": "Straight answers to locksmith objections",
+      "items": [
+        {
+          "q": "Can I keep my existing local phone number?",
+          "a": "Yes. You simply set up conditional call-forwarding (when busy or unanswered after 3 rings) from your current mobile or landline provider to your KEY24 dedicated agent number."
+        },
+        {
+          "q": "What happens if a caller has a complex or non-standard vehicle?",
+          "a": "The KEY24 agent is programmed with automotive database logic. If an unlisted vehicle or unusual situation occurs, it politely informs the caller that the master locksmith will call back within 10 minutes and sends an urgent push alert to your phone."
+        },
+        {
+          "q": "Does the WhatsApp integration require customer consent?",
+          "a": "Absolutely. In compliance with GDPR and Meta Business policies, the voice agent asks: 'May we send your job confirmation and live technician arrival tracker to this mobile number via WhatsApp?' before triggering the message."
+        },
+        {
+          "q": "Can the agent quote accurate prices for my area?",
+          "a": "Yes. During onboarding, we configure your specific base prices (e.g. standard lockout, laser cut, transponder programming, all-keys-lost surcharge, and evening emergency tariffs)."
+        }
+      ]
+    }
+  },
+  "footer": {
+    "statement": "KEY24 is an automotive software system providing intelligent conversational AI phone agents, specialized locksmith CRM pipelines, and compliant WhatsApp customer automation across the UK, Germany, and Europe.",
+    "col1Title": "Solutions & Platform",
+    "col2Title": "Markets & Sectors",
+    "col3Title": "Resources & Tools",
+    "col4Title": "Company & Legal",
+    "copyright": "© 2026 KEY24 Technologies. All rights reserved. Built with IBM Carbon Design Tokens."
+  }
+}
