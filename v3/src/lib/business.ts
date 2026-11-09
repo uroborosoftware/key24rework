@@ -13,7 +13,7 @@ export const business = {
 
   // TODO(owner): confirm the final domain before launch. Every canonical URL,
   // the sitemap and the schema @id are built from this one value.
-  domain: "firstclasskey.de",
+  domain: "firstclassschluesseldienst.de",
 
   /** International form — correct for the tel: href and for schema.org. */
   phone: "+49 172 1416144",
