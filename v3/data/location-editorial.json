@@ -1,0 +1,892 @@
+{
+  "language": "de",
+  "status": "all_services_and_all_18_cities_confirmed_2026-11-08",
+  "source": "Websitebetreiber bestätigt am 2026-11-08: alle aufgeführten Leistungen in allen 18 aufgeführten Städten.",
+  "businessAddress": "Mercedesstraße 12, 71063 Sindelfingen, Deutschland",
+  "phone": "+491721416144",
+  "researchStatus": "See docs/seo-research.md; six competitors per city not yet completed",
+  "technicalTestStatus": "pilot_build_and_static_checks_passed_2026-10-31",
+  "seoPerformanceStatus": "not_measured",
+  "locations": [
+    {
+      "slug": "stuttgart",
+      "city": "Stuttgart",
+      "group": "Stuttgart und Region",
+      "pilot": true,
+      "status": "published",
+      "coverageConfirmed": true,
+      "noindex": false,
+      "title": "Schlüsseldienst Stuttgart & Türöffnung | First Class Key",
+      "h1": "Schlüsseldienst in Stuttgart",
+      "enquiryNote": "Wir bieten unsere Leistungen auch in Stuttgart an. Unser Standort ist Mercedesstraße 12 in Sindelfingen. Für Türöffnung, Autoöffnung, Schlüsselservice oder Sicherheitstechnik nennen Sie bitte die genaue Adresse und Ihr Anliegen. Termin, Anfahrt und Gesamtpreis werden vor dem Auftrag abgestimmt.",
+      "sections": [
+        {
+          "heading": "Was ist passiert?",
+          "body": "Eine ins Schloss gefallene Tür und eine mit dem Schlüssel verriegelte Tür erfordern unterschiedliche Einschätzungen. Beschreiben Sie bitte den Zustand und ob der Schlüssel noch innen steckt."
+        },
+        {
+          "heading": "Anfahrt und Kosten vor dem Auftrag klären",
+          "body": "Fragen Sie für Ihre Stuttgarter Adresse nach Verfügbarkeit, Anfahrt, Gesamtpreis und möglichen Zuschlägen. Unsere Anfahrt erfolgt ab Sindelfingen. Den voraussichtlichen Termin stimmen wir telefonisch ab."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Reicht die Angabe Stuttgart für eine Anfrage?",
+          "answer": "Die vollständige Straße und Hausnummer helfen bei der Einschätzung. Nennen Sie außerdem, welche Tür betroffen ist und wie diese verschlossen wurde."
+        },
+        {
+          "question": "Ist ein Zylinderwechsel nach dem Aussperren immer nötig?",
+          "answer": "Das lässt sich nicht allein aus dem Aussperren ableiten. Türzustand, Defekt und Schlüsselverlust sind zu prüfen; ein Austausch und seine Kosten sollten vorab besprochen werden."
+        }
+      ],
+      "description": "Schlüsseldienst für Stuttgart: Türöffnung, Autoöffnung, Schlüsselservice und Sicherheitstechnik. Anfahrt ab Sindelfingen und Gesamtpreis vorab abstimmen.",
+      "researchStatus": "partial_pilot_study",
+      "claimsToConfirm": [
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ],
+      "verifiedFacts": [
+        {
+          "fact": "Einsatzabdeckung für diese Stadt",
+          "source": "Bestätigung des Inhabers (Güngör Demir, First Class Key) gegenüber dem Websitebetreuer",
+          "confirmedOn": "2026-11-01"
+        },
+        {
+          "fact": "Alle angebotenen Leistungen im Stadtgebiet",
+          "source": "Bestätigung des Websitebetreibers im Chat",
+          "confirmedOn": "2026-11-08"
+        }
+      ]
+    },
+    {
+      "slug": "fellbach",
+      "city": "Fellbach",
+      "group": "Stuttgart und Region",
+      "pilot": false,
+      "status": "published",
+      "coverageConfirmed": true,
+      "noindex": false,
+      "enquiryNote": "Wir bieten unsere Leistungen auch in Fellbach an. Unser Standort ist Mercedesstraße 12 in Sindelfingen. Für Türöffnung, Autoöffnung, Schlüsselservice oder Sicherheitstechnik nennen Sie bitte die genaue Adresse und Ihr Anliegen. Termin, Anfahrt und Gesamtpreis werden vor dem Auftrag abgestimmt.",
+      "title": "Schlüsseldienst Fellbach & Türöffnung | First Class Key",
+      "h1": "Schlüsseldienst in Fellbach",
+      "description": "Schlüsseldienst für Fellbach: Türöffnung, Autoöffnung, Schlüsselservice und Sicherheitstechnik. Anfahrt ab Sindelfingen und Gesamtpreis vorab abstimmen.",
+      "sections": [
+        {
+          "heading": "Hauseingang und Wohnungstür getrennt beschreiben",
+          "body": "Ist die Haustür offen, während Ihre Wohnungstür verschlossen bleibt? Oder kommen Sie bereits nicht in das Gebäude? Diese Unterscheidung hilft, den angefragten Leistungsumfang einzugrenzen. Nennen Sie für Fellbach die genaue Einsatzadresse und die betroffene Tür."
+        },
+        {
+          "heading": "Was zur Anfrage gehört",
+          "body": "Beschreiben Sie, ob die Tür nur zugefallen oder abgeschlossen ist. Falls mehrere Türen geöffnet werden müssten, sollte dies vor einer möglichen Anfahrt ausdrücklich besprochen werden. Klären Sie Verfügbarkeit und Gesamtkosten für den konkreten Auftrag."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Muss ich erwähnen, dass auch die Haustür verschlossen ist?",
+          "answer": "Ja. Ein zusätzlicher verschlossener Zugang kann den Auftrag verändern. Besprechen Sie, welche Türen betroffen sind und für welche Sie zugangsberechtigt sind."
+        },
+        {
+          "question": "Ist eine Anfahrt nach Fellbach bereits zugesagt?",
+          "answer": "Nein. Die konkrete Einsatzmöglichkeit wird für Ihre Adresse und den gewünschten Zeitpunkt telefonisch geklärt."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ],
+      "verifiedFacts": [
+        {
+          "fact": "Einsatzabdeckung für diese Stadt",
+          "source": "Bestätigung des Inhabers (Güngör Demir, First Class Key) gegenüber dem Websitebetreuer",
+          "confirmedOn": "2026-11-01"
+        },
+        {
+          "fact": "Alle angebotenen Leistungen im Stadtgebiet",
+          "source": "Bestätigung des Websitebetreibers im Chat",
+          "confirmedOn": "2026-11-08"
+        }
+      ]
+    },
+    {
+      "slug": "waiblingen",
+      "city": "Waiblingen",
+      "group": "Stuttgart und Region",
+      "pilot": false,
+      "status": "published",
+      "coverageConfirmed": true,
+      "noindex": false,
+      "enquiryNote": "Wir bieten unsere Leistungen auch in Waiblingen an. Unser Standort ist Mercedesstraße 12 in Sindelfingen. Für Türöffnung, Autoöffnung, Schlüsselservice oder Sicherheitstechnik nennen Sie bitte die genaue Adresse und Ihr Anliegen. Termin, Anfahrt und Gesamtpreis werden vor dem Auftrag abgestimmt.",
+      "title": "Schlüsseldienst Waiblingen & Türöffnung | First Class Key",
+      "h1": "Schlüsseldienst in Waiblingen",
+      "description": "Schlüsseldienst für Waiblingen: Türöffnung, Autoöffnung, Schlüsselservice und Sicherheitstechnik. Anfahrt ab Sindelfingen und Gesamtpreis vorab abstimmen.",
+      "sections": [
+        {
+          "heading": "Nur zugezogen oder tatsächlich verriegelt?",
+          "body": "Eine Tür kann ins Schloss fallen, ohne dass der Riegel mit dem Schlüssel ausgefahren wurde. Überlegen Sie vor Ihrer Anfrage aus Waiblingen, ob jemand zuletzt abgeschlossen hat. Wenn Sie es nicht wissen, sagen Sie dies offen, statt einen Zustand zu vermuten."
+        },
+        {
+          "heading": "Die Einschätzung kann sich vor Ort ändern",
+          "body": "Tür, Beschlag und ein möglicher Defekt sind aus der Ferne nicht vollständig zu beurteilen. Lassen Sie sich den vorgesehenen Umfang erklären und klären Sie, wie zusätzlicher Aufwand vereinbart wird. Eine pauschale Zusage für eine beschädigungsfreie Öffnung wäre nicht belastbar."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Was sage ich, wenn ich nicht weiß, ob abgeschlossen wurde?",
+          "answer": "Beschreiben Sie nur Ihre Beobachtung: etwa, dass die Tür ins Schloss gefallen ist oder der Schlüssel zuletzt gedreht wurde. Die weitere Einschätzung erfolgt anhand der konkreten Situation."
+        },
+        {
+          "question": "Bedeutet eine zugefallene Tür immer einen einfachen Auftrag?",
+          "answer": "Nein. Auch Türbauart, Beschlag oder ein Defekt können den Aufwand beeinflussen. Fragen Sie nach Umfang und Kosten für Ihren Fall."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ],
+      "verifiedFacts": [
+        {
+          "fact": "Einsatzabdeckung für diese Stadt",
+          "source": "Bestätigung des Inhabers (Güngör Demir, First Class Key) gegenüber dem Websitebetreuer",
+          "confirmedOn": "2026-11-01"
+        },
+        {
+          "fact": "Alle angebotenen Leistungen im Stadtgebiet",
+          "source": "Bestätigung des Websitebetreibers im Chat",
+          "confirmedOn": "2026-11-08"
+        }
+      ]
+    },
+    {
+      "slug": "filderstadt",
+      "city": "Filderstadt",
+      "group": "Stuttgart und Region",
+      "pilot": false,
+      "status": "published",
+      "coverageConfirmed": true,
+      "noindex": false,
+      "enquiryNote": "Wir bieten unsere Leistungen auch in Filderstadt an. Unser Standort ist Mercedesstraße 12 in Sindelfingen. Für Türöffnung, Autoöffnung, Schlüsselservice oder Sicherheitstechnik nennen Sie bitte die genaue Adresse und Ihr Anliegen. Termin, Anfahrt und Gesamtpreis werden vor dem Auftrag abgestimmt.",
+      "title": "Schlüsseldienst Filderstadt & Türöffnung | First Class Key",
+      "h1": "Schlüsseldienst in Filderstadt",
+      "description": "Schlüsseldienst für Filderstadt: Türöffnung, Autoöffnung, Schlüsselservice und Sicherheitstechnik. Anfahrt ab Sindelfingen und Gesamtpreis vorab abstimmen.",
+      "sections": [
+        {
+          "heading": "Ein innen steckender Schlüssel ist eine wichtige Angabe",
+          "body": "Teilen Sie bei Ihrer Anfrage für Filderstadt mit, ob der Schlüssel auf der Innenseite steckt und ob die Tür abgeschlossen ist. Erwähnen Sie auch, ob Sie einen passenden Zweitschlüssel bei sich haben. Daraus allein lässt sich noch keine geeignete Öffnungsmethode ableiten."
+        },
+        {
+          "heading": "Not- und Gefahrenfunktion ist ausstattungsabhängig",
+          "body": "Bei manchen Zylindern kann ein Schlüssel von außen bedient werden, obwohl innen ein Schlüssel steckt. Diese Eigenschaft hängt von Modell und Ausführung ab. Erzwingen Sie keine Drehung; besprechen Sie auffälligen Widerstand bei der Anfrage."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Lässt sich jede Tür mit innen steckendem Schlüssel von außen aufschließen?",
+          "answer": "Nein. Das hängt unter anderem von der Zylinderfunktion und dem Türzustand ab. Eine vorhandene Not- und Gefahrenfunktion muss zur konkreten Ausführung passen."
+        },
+        {
+          "question": "Welche Angaben helfen bei der Anfrage aus Filderstadt?",
+          "answer": "Nennen Sie die Adresse, ob abgeschlossen wurde, ob ein Zweitschlüssel vorhanden ist und ob dieser sich ohne Gewalt bedienen lässt."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ],
+      "verifiedFacts": [
+        {
+          "fact": "Einsatzabdeckung für diese Stadt",
+          "source": "Bestätigung des Inhabers (Güngör Demir, First Class Key) gegenüber dem Websitebetreuer",
+          "confirmedOn": "2026-11-01"
+        },
+        {
+          "fact": "Alle angebotenen Leistungen im Stadtgebiet",
+          "source": "Bestätigung des Websitebetreibers im Chat",
+          "confirmedOn": "2026-11-08"
+        }
+      ]
+    },
+    {
+      "slug": "ditzingen",
+      "city": "Ditzingen",
+      "group": "Stuttgart und Region",
+      "pilot": false,
+      "status": "published",
+      "coverageConfirmed": true,
+      "noindex": false,
+      "enquiryNote": "Wir bieten unsere Leistungen auch in Ditzingen an. Unser Standort ist Mercedesstraße 12 in Sindelfingen. Für Türöffnung, Autoöffnung, Schlüsselservice oder Sicherheitstechnik nennen Sie bitte die genaue Adresse und Ihr Anliegen. Termin, Anfahrt und Gesamtpreis werden vor dem Auftrag abgestimmt.",
+      "title": "Schlüsseldienst Ditzingen & Türöffnung | First Class Key",
+      "h1": "Schlüsseldienst in Ditzingen",
+      "description": "Schlüsseldienst für Ditzingen: Türöffnung, Autoöffnung, Schlüsselservice und Sicherheitstechnik. Anfahrt ab Sindelfingen und Gesamtpreis vorab abstimmen.",
+      "sections": [
+        {
+          "heading": "Wo befindet sich das Bruchstück?",
+          "body": "Bei einer Anfrage aus Ditzingen ist wichtig, ob der Schlüssel im Zylinder abgebrochen ist und ob sich die Tür noch öffnen lässt. Bewahren Sie vorhandene Schlüsselteile auf und beschreiben Sie, was unmittelbar vor dem Bruch passiert ist."
+        },
+        {
+          "heading": "Weitere Schäden vermeiden",
+          "body": "Versuchen Sie nicht, den Rest mit Gewalt zu drehen oder tiefer in den Zylinder zu drücken. Ob eine Entfernung genügt oder ein Ersatz erforderlich ist, hängt vom Schaden ab. Arbeiten am Zylinder und mögliches Material sollten vorab besprochen werden."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Muss ein Zylinder bei einem abgebrochenen Schlüssel immer ersetzt werden?",
+          "answer": "Nicht zwangsläufig. Entscheidend ist, ob das Bruchstück entfernt werden kann und ob der Zylinder beschädigt ist. Eine Bewertung ist für den konkreten Fall nötig."
+        },
+        {
+          "question": "Hilft das andere Schlüsselstück bei der Einschätzung?",
+          "answer": "Es kann helfen, den Bruch zu beschreiben. Eine verbindliche Beurteilung des eingebauten Zylinders ersetzt es nicht."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ],
+      "verifiedFacts": [
+        {
+          "fact": "Einsatzabdeckung für diese Stadt",
+          "source": "Bestätigung des Inhabers (Güngör Demir, First Class Key) gegenüber dem Websitebetreuer",
+          "confirmedOn": "2026-11-01"
+        },
+        {
+          "fact": "Alle angebotenen Leistungen im Stadtgebiet",
+          "source": "Bestätigung des Websitebetreibers im Chat",
+          "confirmedOn": "2026-11-08"
+        }
+      ]
+    },
+    {
+      "slug": "sindelfingen",
+      "city": "Sindelfingen",
+      "group": "Umgebung",
+      "pilot": true,
+      "status": "published",
+      "coverageConfirmed": true,
+      "noindex": false,
+      "title": "Schlüsseldienst Sindelfingen & Türöffnung | First Class Key",
+      "h1": "Schlüsseldienst in Sindelfingen",
+      "enquiryNote": "Wir bieten unsere Leistungen auch in Sindelfingen an. Unser Standort ist Mercedesstraße 12 in Sindelfingen. Für Türöffnung, Autoöffnung, Schlüsselservice oder Sicherheitstechnik nennen Sie bitte die genaue Adresse und Ihr Anliegen. Termin, Anfahrt und Gesamtpreis werden vor dem Auftrag abgestimmt.",
+      "sections": [
+        {
+          "heading": "Ihre Einsatzadresse ist entscheidend",
+          "body": "Rufen Sie unter +49 172 1416144 an und schildern Sie, welche Tür betroffen ist. Bitte unterscheiden Sie die Adresse der verschlossenen Wohnung von der Geschäftsanschrift in der Mercedesstraße."
+        },
+        {
+          "heading": "Vor einer Türöffnung",
+          "body": "Besprechen Sie Türzustand, mögliche Vorgehensweise und Kosten. Es muss außerdem geklärt werden, dass Sie die Wohnung betreten dürfen. Wenn Ihre Unterlagen eingeschlossen sind, erwähnen Sie dies bereits bei der Anfrage."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Kann ich ohne Termin zur Mercedesstraße 12 kommen?",
+          "answer": "Bitte vereinbaren Sie Ihren Besuch telefonisch. Für eine Türöffnung nennen Sie uns Ihre Einsatzadresse."
+        },
+        {
+          "question": "Was sollte ich beim Anruf bereithalten?",
+          "answer": "Die genaue Einsatzadresse, eine Beschreibung des Türzustands und Angaben zu Ihrer Zugangsberechtigung helfen bei der Klärung. Fragen Sie nach dem Gesamtpreis und möglichen Zusatzkosten."
+        }
+      ],
+      "description": "Schlüsseldienst für Sindelfingen: Türöffnung, Autoöffnung, Schlüsselservice und Sicherheitstechnik. Anfahrt ab Sindelfingen und Gesamtpreis vorab abstimmen.",
+      "researchStatus": "partial_pilot_study",
+      "claimsToConfirm": [
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ],
+      "verifiedFacts": [
+        {
+          "fact": "Einsatzabdeckung für diese Stadt",
+          "source": "Bestätigung des Inhabers (Güngör Demir, First Class Key) gegenüber dem Websitebetreuer",
+          "confirmedOn": "2026-11-01"
+        },
+        {
+          "fact": "Alle angebotenen Leistungen im Stadtgebiet",
+          "source": "Bestätigung des Websitebetreibers im Chat",
+          "confirmedOn": "2026-11-08"
+        }
+      ]
+    },
+    {
+      "slug": "boeblingen",
+      "city": "Böblingen",
+      "group": "Umgebung",
+      "pilot": true,
+      "status": "published",
+      "coverageConfirmed": true,
+      "noindex": false,
+      "title": "Schlüsseldienst Böblingen & Türöffnung | First Class Key",
+      "h1": "Schlüsseldienst in Böblingen",
+      "enquiryNote": "Wir bieten unsere Leistungen auch in Böblingen an. Unser Standort ist Mercedesstraße 12 in Sindelfingen. Für Türöffnung, Autoöffnung, Schlüsselservice oder Sicherheitstechnik nennen Sie bitte die genaue Adresse und Ihr Anliegen. Termin, Anfahrt und Gesamtpreis werden vor dem Auftrag abgestimmt.",
+      "sections": [
+        {
+          "heading": "Schlüssel vergessen oder verloren?",
+          "body": "Teilen Sie mit, ob der Schlüssel in der Wohnung liegt oder nicht mehr auffindbar ist. Bei Schlüsselverlust können nach der Öffnung weitere Fragen zur Sicherung der Wohnung entstehen; ein Austausch ist gesondert zu besprechen."
+        },
+        {
+          "heading": "Einsatz erst konkret vereinbaren",
+          "body": "Für Ihre Böblinger Adresse sind Verfügbarkeit, Anfahrt und Kosten vor der Beauftragung zu klären. Auch bei einer nur zugefallenen Tür lässt sich eine beschädigungsfreie Öffnung nicht pauschal versprechen."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Wo befindet sich Ihr Standort?",
+          "answer": "Unser Standort ist Mercedesstraße 12 in Sindelfingen. Böblingen gehört zu unserem Einsatzgebiet; eine eigene Niederlassung in Böblingen besteht nicht."
+        },
+        {
+          "question": "Kann ich vorab einen Preis für Böblingen erfahren?",
+          "answer": "Schildern Sie den Türzustand und die Einsatzadresse und fragen Sie nach dem Gesamtpreis einschließlich Anfahrt, Zuschlägen und möglichem Material. Die veröffentlichten Einstiegspreise und den Umfang finden Sie auf unserer Preisseite; der Gesamtpreis wird für Ihre Adresse vor dem Auftrag abgestimmt."
+        }
+      ],
+      "description": "Schlüsseldienst für Böblingen: Türöffnung, Autoöffnung, Schlüsselservice und Sicherheitstechnik. Anfahrt ab Sindelfingen und Gesamtpreis vorab abstimmen.",
+      "researchStatus": "partial_pilot_study",
+      "claimsToConfirm": [
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ],
+      "verifiedFacts": [
+        {
+          "fact": "Einsatzabdeckung für diese Stadt",
+          "source": "Bestätigung des Inhabers (Güngör Demir, First Class Key) gegenüber dem Websitebetreuer",
+          "confirmedOn": "2026-11-01"
+        },
+        {
+          "fact": "Alle angebotenen Leistungen im Stadtgebiet",
+          "source": "Bestätigung des Websitebetreibers im Chat",
+          "confirmedOn": "2026-11-08"
+        }
+      ]
+    },
+    {
+      "slug": "ludwigsburg",
+      "city": "Ludwigsburg",
+      "group": "Umgebung",
+      "pilot": false,
+      "status": "published",
+      "coverageConfirmed": true,
+      "noindex": false,
+      "enquiryNote": "Wir bieten unsere Leistungen auch in Ludwigsburg an. Unser Standort ist Mercedesstraße 12 in Sindelfingen. Für Türöffnung, Autoöffnung, Schlüsselservice oder Sicherheitstechnik nennen Sie bitte die genaue Adresse und Ihr Anliegen. Termin, Anfahrt und Gesamtpreis werden vor dem Auftrag abgestimmt.",
+      "title": "Schlüsseldienst Ludwigsburg & Türöffnung | First Class Key",
+      "h1": "Schlüsseldienst in Ludwigsburg",
+      "description": "Schlüsseldienst für Ludwigsburg: Türöffnung, Autoöffnung, Schlüsselservice und Sicherheitstechnik. Anfahrt ab Sindelfingen und Gesamtpreis vorab abstimmen.",
+      "sections": [
+        {
+          "heading": "Verloren ist etwas anderes als eingeschlossen",
+          "body": "Wenn der Schlüssel nicht mehr auffindbar ist, erwähnen Sie dies bei Ihrer Anfrage aus Ludwigsburg. Beschreiben Sie auch, ob die Tür zuletzt abgeschlossen wurde. Ein Schlüssel, der in der Wohnung liegt, führt zu anderen Überlegungen als ein verlorener Schlüssel."
+        },
+        {
+          "heading": "Öffnung und anschließende Sicherung unterscheiden",
+          "body": "Nach dem Zugang zur Wohnung stellt sich bei Schlüsselverlust möglicherweise die Frage nach einem Zylinderwechsel. Besprechen Sie Bedarf, Kompatibilität und Kosten gesondert. Der Auftrag zur Öffnung allein sollte nicht als pauschale Zustimmung zu zusätzlichem Material verstanden werden."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Ist nach jedem Schlüsselverlust ein Austausch nötig?",
+          "answer": "Das lässt sich nicht pauschal sagen. Die mögliche Zuordnung des Schlüssels und die konkrete Wohnsituation sollten bei der Entscheidung berücksichtigt werden."
+        },
+        {
+          "question": "Soll ich einen vorhandenen Ersatzschlüssel erwähnen?",
+          "answer": "Ja. Ein erreichbarer Ersatzschlüssel kann für die weitere Klärung wichtig sein. Ob er die aktuelle Tür öffnet, hängt auch von Türzustand und Zylinder ab."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ],
+      "verifiedFacts": [
+        {
+          "fact": "Einsatzabdeckung für diese Stadt",
+          "source": "Bestätigung des Inhabers (Güngör Demir, First Class Key) gegenüber dem Websitebetreuer",
+          "confirmedOn": "2026-11-01"
+        },
+        {
+          "fact": "Alle angebotenen Leistungen im Stadtgebiet",
+          "source": "Bestätigung des Websitebetreibers im Chat",
+          "confirmedOn": "2026-11-08"
+        }
+      ]
+    },
+    {
+      "slug": "esslingen-am-neckar",
+      "city": "Esslingen am Neckar",
+      "group": "Umgebung",
+      "pilot": false,
+      "status": "published",
+      "coverageConfirmed": true,
+      "noindex": false,
+      "enquiryNote": "Wir bieten unsere Leistungen auch in Esslingen am Neckar an. Unser Standort ist Mercedesstraße 12 in Sindelfingen. Für Türöffnung, Autoöffnung, Schlüsselservice oder Sicherheitstechnik nennen Sie bitte die genaue Adresse und Ihr Anliegen. Termin, Anfahrt und Gesamtpreis werden vor dem Auftrag abgestimmt.",
+      "title": "Schlüsseldienst Esslingen am Neckar & Türöffnung | First Class Key",
+      "h1": "Schlüsseldienst in Esslingen am Neckar",
+      "description": "Schlüsseldienst für Esslingen am Neckar: Türöffnung, Autoöffnung, Schlüsselservice und Sicherheitstechnik. Anfahrt ab Sindelfingen und Gesamtpreis vorab abstimmen.",
+      "sections": [
+        {
+          "heading": "Zugangsberechtigung früh ansprechen",
+          "body": "Wenn Ihr Ausweis in der verschlossenen Wohnung liegt, sagen Sie dies bereits bei der Anfrage aus Esslingen am Neckar. Vor einer Öffnung muss geklärt werden, dass Sie die Räume betreten dürfen. Welche Nachweise möglich sind, ist konkret abzustimmen."
+        },
+        {
+          "heading": "Zugang zum Gebäude beschreiben",
+          "body": "Geben Sie an, ob Sie im Treppenhaus stehen oder auch der Hauseingang verschlossen ist. Nennen Sie die genaue Adresse und die betroffene Wohnung. Verfügbarkeit und Kosten werden für diesen konkreten Umfang angefragt."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Kann die Tür ohne jede Klärung der Berechtigung geöffnet werden?",
+          "answer": "Eine Öffnung erfordert die Klärung Ihrer Zugangsberechtigung. Besprechen Sie vorab, welche Nachweise Sie beibringen können."
+        },
+        {
+          "question": "Was mache ich, wenn alle Unterlagen in der Wohnung sind?",
+          "answer": "Erwähnen Sie dies beim ersten Kontakt. Eine geeignete Möglichkeit der Prüfung muss für Ihre Situation abgestimmt werden; eine pauschale Zusage ist nicht möglich."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ],
+      "verifiedFacts": [
+        {
+          "fact": "Einsatzabdeckung für diese Stadt",
+          "source": "Bestätigung des Inhabers (Güngör Demir, First Class Key) gegenüber dem Websitebetreuer",
+          "confirmedOn": "2026-11-01"
+        },
+        {
+          "fact": "Alle angebotenen Leistungen im Stadtgebiet",
+          "source": "Bestätigung des Websitebetreibers im Chat",
+          "confirmedOn": "2026-11-08"
+        }
+      ]
+    },
+    {
+      "slug": "leonberg",
+      "city": "Leonberg",
+      "group": "Umgebung",
+      "pilot": false,
+      "status": "published",
+      "coverageConfirmed": true,
+      "noindex": false,
+      "enquiryNote": "Wir bieten unsere Leistungen auch in Leonberg an. Unser Standort ist Mercedesstraße 12 in Sindelfingen. Für Türöffnung, Autoöffnung, Schlüsselservice oder Sicherheitstechnik nennen Sie bitte die genaue Adresse und Ihr Anliegen. Termin, Anfahrt und Gesamtpreis werden vor dem Auftrag abgestimmt.",
+      "title": "Schlüsseldienst Leonberg & Türöffnung | First Class Key",
+      "h1": "Schlüsseldienst in Leonberg",
+      "description": "Schlüsseldienst für Leonberg: Türöffnung, Autoöffnung, Schlüsselservice und Sicherheitstechnik. Anfahrt ab Sindelfingen und Gesamtpreis vorab abstimmen.",
+      "sections": [
+        {
+          "heading": "Das Fehlerbild möglichst genau beschreiben",
+          "body": "Für eine Anfrage aus Leonberg helfen konkrete Beobachtungen: Lässt sich der Schlüssel einführen, aber nicht drehen? Dreht er sich, ohne dass die Tür aufgeht? Oder sitzt er fest? Schildern Sie nur, was Sie bemerken; die Ursache kann sich erst bei einer Prüfung zeigen."
+        },
+        {
+          "heading": "Prüfung vor einem Austausch",
+          "body": "Ein schwergängiger Schlüssel beweist noch nicht, welches Bauteil defekt ist. Zusätzliche Kraft kann Schäden verursachen. Klären Sie zunächst die Einsatzmöglichkeit und anschließend Prüfung, Vorgehen sowie mögliche Materialkosten."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Soll ich den Schlüssel kräftiger drehen?",
+          "answer": "Üben Sie keine zusätzliche Gewalt aus, wenn ungewöhnlicher Widerstand auftritt. Ein abgebrochener Schlüssel kann die Situation erschweren."
+        },
+        {
+          "question": "Ist automatisch der Schließzylinder defekt?",
+          "answer": "Nein. Auch andere Teile der Tür oder Verriegelung können beteiligt sein. Ohne Prüfung lässt sich die Ursache nicht zuverlässig bestimmen."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ],
+      "verifiedFacts": [
+        {
+          "fact": "Einsatzabdeckung für diese Stadt",
+          "source": "Bestätigung des Inhabers (Güngör Demir, First Class Key) gegenüber dem Websitebetreuer",
+          "confirmedOn": "2026-11-01"
+        },
+        {
+          "fact": "Alle angebotenen Leistungen im Stadtgebiet",
+          "source": "Bestätigung des Websitebetreibers im Chat",
+          "confirmedOn": "2026-11-08"
+        }
+      ]
+    },
+    {
+      "slug": "mannheim",
+      "city": "Mannheim",
+      "group": "Weitere Städte in Baden-Württemberg",
+      "pilot": false,
+      "status": "published",
+      "coverageConfirmed": true,
+      "noindex": false,
+      "enquiryNote": "Wir bieten unsere Leistungen auch in Mannheim an. Unser Standort ist Mercedesstraße 12 in Sindelfingen. Für Türöffnung, Autoöffnung, Schlüsselservice oder Sicherheitstechnik nennen Sie bitte die genaue Adresse und Ihr Anliegen. Termin, Anfahrt und Gesamtpreis werden vor dem Auftrag abgestimmt.",
+      "title": "Schlüsseldienst Mannheim & Türöffnung | First Class Key",
+      "h1": "Schlüsseldienst in Mannheim",
+      "description": "Schlüsseldienst für Mannheim: Türöffnung, Autoöffnung, Schlüsselservice und Sicherheitstechnik. Anfahrt ab Sindelfingen und Gesamtpreis vorab abstimmen.",
+      "sections": [
+        {
+          "heading": "Eine Zielortnennung ist keine Einsatzbestätigung",
+          "body": "Wir bieten unsere Leistungen auch in Mannheim an. Unser Standort liegt in Sindelfingen. Nennen Sie uns Ihre Adresse und Ihr Anliegen, damit wir Anfahrt, Termin und Gesamtpreis mit Ihnen abstimmen können."
+        },
+        {
+          "heading": "Erst Umfang, dann Auftrag",
+          "body": "Nennen Sie die vollständige Adresse, den gewünschten Zeitpunkt und ob die Tür nur zugefallen oder abgeschlossen ist. Lassen Sie mögliche Anfahrtskosten und den Leistungsumfang in die Preisabsprache aufnehmen. Eine feste Ankunftszeit wird hier nicht zugesagt."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Von wo erfolgt die Anfahrt nach Mannheim?",
+          "answer": "Nein. Als Geschäftsanschrift ist Mercedesstraße 12 in Sindelfingen angegeben. Die Übernahme einer Anfrage aus Mannheim ist gesondert zu klären."
+        },
+        {
+          "question": "Welche Kosten sollte ich ausdrücklich erfragen?",
+          "answer": "Fragen Sie nach dem Gesamtpreis, der Anfahrt, möglichen zeitabhängigen Zuschlägen und erforderlichem Material für Ihren konkreten Fall."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Einsatzabdeckung",
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ],
+      "verifiedFacts": [
+        {
+          "fact": "Alle angebotenen Leistungen im Stadtgebiet",
+          "source": "Bestätigung des Websitebetreibers im Chat",
+          "confirmedOn": "2026-11-08"
+        }
+      ]
+    },
+    {
+      "slug": "karlsruhe",
+      "city": "Karlsruhe",
+      "group": "Weitere Städte in Baden-Württemberg",
+      "pilot": false,
+      "status": "published",
+      "coverageConfirmed": true,
+      "noindex": false,
+      "enquiryNote": "Wir bieten unsere Leistungen auch in Karlsruhe an. Unser Standort ist Mercedesstraße 12 in Sindelfingen. Für Türöffnung, Autoöffnung, Schlüsselservice oder Sicherheitstechnik nennen Sie bitte die genaue Adresse und Ihr Anliegen. Termin, Anfahrt und Gesamtpreis werden vor dem Auftrag abgestimmt.",
+      "title": "Schlüsseldienst Karlsruhe & Türöffnung | First Class Key",
+      "h1": "Schlüsseldienst in Karlsruhe",
+      "description": "Schlüsseldienst für Karlsruhe: Türöffnung, Autoöffnung, Schlüsselservice und Sicherheitstechnik. Anfahrt ab Sindelfingen und Gesamtpreis vorab abstimmen.",
+      "sections": [
+        {
+          "heading": "Was soll tatsächlich beauftragt werden?",
+          "body": "Wenn Sie in Karlsruhe ausgesperrt sind, beschreiben Sie zunächst das Ziel: Zugang zu Ihrer Wohnung. Ein Zylinderwechsel oder andere Arbeiten sind eigene Punkte, die gegebenenfalls nach der Prüfung besprochen werden. Die bloße Anfrage ist keine Zustimmung zu einem Ersatzteil."
+        },
+        {
+          "heading": "Gesamtpreis und Änderungen besprechen",
+          "body": "Klären Sie, ob die Adresse bedient werden kann und welche Leistungen die Preisabsprache enthält. Falls vor Ort ein anderer Aufwand sichtbar wird, sollte dieser erklärt und vereinbart werden, bevor zusätzliche Arbeiten beginnen."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Gehört ein neuer Zylinder automatisch zur Türöffnung?",
+          "answer": "Das hängt vom vereinbarten Umfang und der Situation ab. Fragen Sie ausdrücklich nach, ob Material enthalten ist und wann ein Austausch notwendig wäre."
+        },
+        {
+          "question": "Ist ein pauschaler Preis für alle Türen sinnvoll?",
+          "answer": "Türzustand, Anfahrt, Zeitpunkt und Material können unterschiedlich sein. Entscheidend ist eine klare Absprache für Ihren konkreten Auftrag."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Einsatzabdeckung",
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ],
+      "verifiedFacts": [
+        {
+          "fact": "Alle angebotenen Leistungen im Stadtgebiet",
+          "source": "Bestätigung des Websitebetreibers im Chat",
+          "confirmedOn": "2026-11-08"
+        }
+      ]
+    },
+    {
+      "slug": "freiburg-im-breisgau",
+      "city": "Freiburg im Breisgau",
+      "group": "Weitere Städte in Baden-Württemberg",
+      "pilot": false,
+      "status": "published",
+      "coverageConfirmed": true,
+      "noindex": false,
+      "enquiryNote": "Wir bieten unsere Leistungen auch in Freiburg im Breisgau an. Unser Standort ist Mercedesstraße 12 in Sindelfingen. Für Türöffnung, Autoöffnung, Schlüsselservice oder Sicherheitstechnik nennen Sie bitte die genaue Adresse und Ihr Anliegen. Termin, Anfahrt und Gesamtpreis werden vor dem Auftrag abgestimmt.",
+      "title": "Schlüsseldienst Freiburg im Breisgau & Türöffnung | First Class Key",
+      "h1": "Schlüsseldienst in Freiburg im Breisgau",
+      "description": "Schlüsseldienst für Freiburg im Breisgau: Türöffnung, Autoöffnung, Schlüsselservice und Sicherheitstechnik. Anfahrt ab Sindelfingen und Gesamtpreis vorab abstimmen.",
+      "sections": [
+        {
+          "heading": "Verfügbarkeit vor einer weiteren Planung prüfen",
+          "body": "Freiburg im Breisgau gehört zu unserem Einsatzgebiet. Für Ihre Adresse stimmen wir den Termin und die Anfahrt ab Sindelfingen persönlich ab. Beschreiben Sie beim Anruf, ob Sie eine Türöffnung oder einen planbaren Service benötigen."
+        },
+        {
+          "heading": "Die aktuelle Situation erklären",
+          "body": "Sagen Sie, ob es um einen aktuellen Ausschluss aus der Wohnung oder um einen planbaren Termin bei einem Türproblem geht. So lässt sich die Anfrage richtig einordnen. Vereinbaren Sie eine mögliche Anfahrt und deren Kosten erst nach der Klärung der Verfügbarkeit."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Wann ist ein Termin in Freiburg möglich?",
+          "answer": "Den möglichen Termin besprechen wir anhand Ihrer Adresse und der aktuellen Verfügbarkeit telefonisch."
+        },
+        {
+          "question": "Kann ich auch einen planbaren Termin anfragen?",
+          "answer": "Sie können den gewünschten Zeitraum nennen. Ob der Auftrag übernommen werden kann, muss der Betrieb konkret bestätigen."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Einsatzabdeckung",
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ],
+      "verifiedFacts": [
+        {
+          "fact": "Alle angebotenen Leistungen im Stadtgebiet",
+          "source": "Bestätigung des Websitebetreibers im Chat",
+          "confirmedOn": "2026-11-08"
+        }
+      ]
+    },
+    {
+      "slug": "heidelberg",
+      "city": "Heidelberg",
+      "group": "Weitere Städte in Baden-Württemberg",
+      "pilot": false,
+      "status": "published",
+      "coverageConfirmed": true,
+      "noindex": false,
+      "enquiryNote": "Wir bieten unsere Leistungen auch in Heidelberg an. Unser Standort ist Mercedesstraße 12 in Sindelfingen. Für Türöffnung, Autoöffnung, Schlüsselservice oder Sicherheitstechnik nennen Sie bitte die genaue Adresse und Ihr Anliegen. Termin, Anfahrt und Gesamtpreis werden vor dem Auftrag abgestimmt.",
+      "title": "Schlüsseldienst Heidelberg & Türöffnung | First Class Key",
+      "h1": "Schlüsseldienst in Heidelberg",
+      "description": "Schlüsseldienst für Heidelberg: Türöffnung, Autoöffnung, Schlüsselservice und Sicherheitstechnik. Anfahrt ab Sindelfingen und Gesamtpreis vorab abstimmen.",
+      "sections": [
+        {
+          "heading": "Möglichst konkrete Angaben statt einer allgemeinen Preisfrage",
+          "body": "Eine Anfrage aus Heidelberg lässt sich besser einordnen, wenn Sie Adresse, Türzustand und gewünschten Zeitpunkt nennen. Auch ein innen steckender Schlüssel oder ein sichtbarer Defekt gehört zur Beschreibung. Ein allgemeiner Startpreis sagt noch nichts über Ihren vollständigen Auftrag aus."
+        },
+        {
+          "heading": "Zeitpunkt ohne pauschale Verfügbarkeitszusage",
+          "body": "Nennen Sie, wann Sie Hilfe benötigen, und lassen Sie die mögliche Übernahme bestätigen. Unser Standort liegt in Sindelfingen; den Termin für Ihre Adresse in Heidelberg stimmen wir persönlich ab. Besprechen Sie Anfahrt und mögliche Zuschläge für den vereinbarten Zeitpunkt."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Sind Abend- oder Wochenendtermine sicher verfügbar?",
+          "answer": "Fragen Sie telefonisch nach Ihrem gewünschten Termin und möglichen Zuschlägen."
+        },
+        {
+          "question": "Reicht ein Foto für einen verbindlichen Preis?",
+          "answer": "Ein Foto kann eine Beschreibung ergänzen, zeigt aber nicht alle Teile und Zustände. Welche Angaben für eine belastbare Absprache nötig sind, muss konkret geklärt werden."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Einsatzabdeckung",
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ],
+      "verifiedFacts": [
+        {
+          "fact": "Alle angebotenen Leistungen im Stadtgebiet",
+          "source": "Bestätigung des Websitebetreibers im Chat",
+          "confirmedOn": "2026-11-08"
+        }
+      ]
+    },
+    {
+      "slug": "heilbronn",
+      "city": "Heilbronn",
+      "group": "Weitere Städte in Baden-Württemberg",
+      "pilot": false,
+      "status": "published",
+      "coverageConfirmed": true,
+      "noindex": false,
+      "enquiryNote": "Wir bieten unsere Leistungen auch in Heilbronn an. Unser Standort ist Mercedesstraße 12 in Sindelfingen. Für Türöffnung, Autoöffnung, Schlüsselservice oder Sicherheitstechnik nennen Sie bitte die genaue Adresse und Ihr Anliegen. Termin, Anfahrt und Gesamtpreis werden vor dem Auftrag abgestimmt.",
+      "title": "Schlüsseldienst Heilbronn & Türöffnung | First Class Key",
+      "h1": "Schlüsseldienst in Heilbronn",
+      "description": "Schlüsseldienst für Heilbronn: Türöffnung, Autoöffnung, Schlüsselservice und Sicherheitstechnik. Anfahrt ab Sindelfingen und Gesamtpreis vorab abstimmen.",
+      "sections": [
+        {
+          "heading": "Wenn der Schlüssel vorhanden ist und die Tür geschlossen bleibt",
+          "body": "Für eine Anfrage aus Heilbronn ist wichtig, ob der Schlüssel sich dreht und ob sich der Türgriff bewegen lässt. Beschreiben Sie auffällige Geräusche oder Widerstand, ohne Teile gewaltsam zu betätigen. Aus diesen Angaben allein folgt noch keine sichere Diagnose."
+        },
+        {
+          "heading": "Verriegelung und Zylinder sind unterschiedliche Bauteile",
+          "body": "Nicht jedes Problem entsteht im Schließzylinder. Auch Schloss oder Verriegelung können beteiligt sein. Klären Sie zuerst die Einsatzmöglichkeit für Ihre Adresse und lassen Sie einen nötigen Eingriff oder Austausch samt Kosten erklären."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Löst ein neuer Schließzylinder jedes Türproblem?",
+          "answer": "Nein. Wenn andere Bauteile blockieren oder defekt sind, kann ein Zylinderwechsel das Problem verfehlen. Die Ursache muss geprüft werden."
+        },
+        {
+          "question": "Kann eine defekte Verriegelung den Aufwand verändern?",
+          "answer": "Ja. Der tatsächliche Zustand beeinflusst Vorgehen und mögliche Ersatzteile. Zusätzlicher Aufwand sollte vor der Ausführung besprochen werden."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Einsatzabdeckung",
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ],
+      "verifiedFacts": [
+        {
+          "fact": "Alle angebotenen Leistungen im Stadtgebiet",
+          "source": "Bestätigung des Websitebetreibers im Chat",
+          "confirmedOn": "2026-11-08"
+        }
+      ]
+    },
+    {
+      "slug": "ulm",
+      "city": "Ulm",
+      "group": "Weitere Städte in Baden-Württemberg",
+      "pilot": false,
+      "status": "published",
+      "coverageConfirmed": true,
+      "noindex": false,
+      "enquiryNote": "Wir bieten unsere Leistungen auch in Ulm an. Unser Standort ist Mercedesstraße 12 in Sindelfingen. Für Türöffnung, Autoöffnung, Schlüsselservice oder Sicherheitstechnik nennen Sie bitte die genaue Adresse und Ihr Anliegen. Termin, Anfahrt und Gesamtpreis werden vor dem Auftrag abgestimmt.",
+      "title": "Schlüsseldienst Ulm & Türöffnung | First Class Key",
+      "h1": "Schlüsseldienst in Ulm",
+      "description": "Schlüsseldienst für Ulm: Türöffnung, Autoöffnung, Schlüsselservice und Sicherheitstechnik. Anfahrt ab Sindelfingen und Gesamtpreis vorab abstimmen.",
+      "sections": [
+        {
+          "heading": "Die Anfahrt gehört zur Preisabsprache",
+          "body": "Für einen möglichen Einsatz in Ulm sollten Sie neben der Türöffnung auch die Anfahrt ausdrücklich ansprechen. Nennen Sie die vollständige Adresse und fragen Sie, welche Kosten im vereinbarten Gesamtpreis enthalten sind. Unsere Anfahrt erfolgt ab Sindelfingen."
+        },
+        {
+          "heading": "Änderungen Ihrer Situation früh mitteilen",
+          "body": "Wenn inzwischen ein Ersatzschlüssel auftaucht oder sich Ihr Bedarf ändert, teilen Sie dies dem Betrieb mit. Besprechen Sie vor dem Auftrag auch, wie eine Terminänderung oder Absage behandelt wird. Die Bedingungen für Anfahrt, Terminänderungen und Absagen besprechen wir bei der Beauftragung."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Ist die Anfahrt nach Ulm kostenlos?",
+          "answer": "Die Anfahrtskosten werden zusammen mit dem übrigen Leistungsumfang vor der Beauftragung besprochen."
+        },
+        {
+          "question": "Was gilt, wenn ich die Tür zwischenzeitlich selbst aufschließen kann?",
+          "answer": "Informieren Sie den Betrieb sofort und klären Sie die weitere Abwicklung anhand der konkret vereinbarten Bedingungen."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Einsatzabdeckung",
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ],
+      "verifiedFacts": [
+        {
+          "fact": "Alle angebotenen Leistungen im Stadtgebiet",
+          "source": "Bestätigung des Websitebetreibers im Chat",
+          "confirmedOn": "2026-11-08"
+        }
+      ]
+    },
+    {
+      "slug": "pforzheim",
+      "city": "Pforzheim",
+      "group": "Weitere Städte in Baden-Württemberg",
+      "pilot": false,
+      "status": "published",
+      "coverageConfirmed": true,
+      "noindex": false,
+      "enquiryNote": "Wir bieten unsere Leistungen auch in Pforzheim an. Unser Standort ist Mercedesstraße 12 in Sindelfingen. Für Türöffnung, Autoöffnung, Schlüsselservice oder Sicherheitstechnik nennen Sie bitte die genaue Adresse und Ihr Anliegen. Termin, Anfahrt und Gesamtpreis werden vor dem Auftrag abgestimmt.",
+      "title": "Schlüsseldienst Pforzheim & Türöffnung | First Class Key",
+      "h1": "Schlüsseldienst in Pforzheim",
+      "description": "Schlüsseldienst für Pforzheim: Türöffnung, Autoöffnung, Schlüsselservice und Sicherheitstechnik. Anfahrt ab Sindelfingen und Gesamtpreis vorab abstimmen.",
+      "sections": [
+        {
+          "heading": "Das vorhandene Schließsystem beschreiben",
+          "body": "Bei einer Anfrage aus Pforzheim kann eine bekannte Modellbezeichnung die Beschreibung ergänzen. ABUS D6X, DOM ix TwinStar und EVVA 4KS sind Beispiele realer Systeme. Ihre Nennung ist keine Zusage, dass ein bestimmtes Modell vorrätig ist, eingebaut wird oder in jeder Situation geöffnet werden kann."
+        },
+        {
+          "heading": "Passform und Ausstattung konkret prüfen",
+          "body": "Wird ein Austausch erwogen, müssen unter anderem Zylindermaß, Ausführung und Kompatibilität zur Tür passen. Besprechen Sie die Anforderungen und mögliche Kosten vor einer Bestellung oder Montage. Die Einsatzübernahme für Pforzheim ist gesondert zu bestätigen."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Kann ich einfach ein beliebiges Zylindermodell auswählen?",
+          "answer": "Ein Modellname allein genügt nicht. Maße, Funktionen und die vorhandene Tür müssen berücksichtigt werden."
+        },
+        {
+          "question": "Sind die genannten Modelle bei First Class Key auf Lager?",
+          "answer": "Fragen Sie telefonisch nach dem gewünschten Modell und der passenden Ausführung. Wir klären die Verfügbarkeit vor einer Bestellung."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Einsatzabdeckung",
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ],
+      "verifiedFacts": [
+        {
+          "fact": "Alle angebotenen Leistungen im Stadtgebiet",
+          "source": "Bestätigung des Websitebetreibers im Chat",
+          "confirmedOn": "2026-11-08"
+        }
+      ]
+    },
+    {
+      "slug": "reutlingen",
+      "city": "Reutlingen",
+      "group": "Weitere Städte in Baden-Württemberg",
+      "pilot": false,
+      "status": "published",
+      "coverageConfirmed": true,
+      "noindex": false,
+      "enquiryNote": "Wir bieten unsere Leistungen auch in Reutlingen an. Unser Standort ist Mercedesstraße 12 in Sindelfingen. Für Türöffnung, Autoöffnung, Schlüsselservice oder Sicherheitstechnik nennen Sie bitte die genaue Adresse und Ihr Anliegen. Termin, Anfahrt und Gesamtpreis werden vor dem Auftrag abgestimmt.",
+      "title": "Schlüsseldienst Reutlingen & Türöffnung | First Class Key",
+      "h1": "Schlüsseldienst in Reutlingen",
+      "description": "Schlüsseldienst für Reutlingen: Türöffnung, Autoöffnung, Schlüsselservice und Sicherheitstechnik. Anfahrt ab Sindelfingen und Gesamtpreis vorab abstimmen.",
+      "sections": [
+        {
+          "heading": "Vom Zugang zur geprüften Türfunktion",
+          "body": "Nennen Sie bei Ihrer Anfrage aus Reutlingen, ob die Tür nur zugefallen ist oder bereits zuvor Probleme beim Schließen gemacht hat. Eine Öffnung und die Beseitigung eines weiteren Defekts sind nicht zwangsläufig derselbe Leistungsumfang. Besprechen Sie, was genau geprüft und ausgeführt werden soll."
+        },
+        {
+          "heading": "Leistungen und Material nachvollziehbar festhalten",
+          "body": "Fragen Sie vor einem möglichen Auftrag nach Öffnungskosten, Anfahrt und Material. Wenn zusätzliche Arbeiten erforderlich erscheinen, lassen Sie sich Zweck und Preis erklären. Vereinbaren Sie, wie die ausgeführten Leistungen dokumentiert werden; die Zahlungsart besprechen wir bei der Beauftragung."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Soll die Tür nach der Öffnung noch geprüft werden?",
+          "answer": "Eine gemeinsame Prüfung von Öffnen und Schließen hilft, verbleibende Probleme zu erkennen. Welche weiteren Arbeiten nötig sind, muss gesondert besprochen werden."
+        },
+        {
+          "question": "Welche Zahlungsarten werden in Reutlingen angeboten?",
+          "answer": "Bitte stimmen Sie die Zahlungsart zusammen mit Termin und Gesamtpreis vor dem Auftrag telefonisch mit uns ab."
+        }
+      ],
+      "researchStatus": "query_scanned_not_six_domain_review",
+      "claimsToConfirm": [
+        "Einsatzabdeckung",
+        "Arbeitszeiten",
+        "Preise und Zuschläge"
+      ],
+      "verifiedFacts": [
+        {
+          "fact": "Alle angebotenen Leistungen im Stadtgebiet",
+          "source": "Bestätigung des Websitebetreibers im Chat",
+          "confirmedOn": "2026-11-08"
+        }
+      ]
+    }
+  ],
+  "technicalTestEvidence": [
+    "Parent agent reported successful build with 38 static pages.",
+    "Parent agent reported check-site: 33 content pages, 1472 internal references, 18 locations.",
+    "Parent agent reported 14 CSS, font and design files unchanged.",
+    "Expanded editorial drafts still require integration and a fresh build."
+  ],
+  "researchGaps": [
+    "Localized Google top-six ranks have not been measured.",
+    "Six distinct competitor domains have not been inspected for every city.",
+    "Business coverage, working hours and prices still require confirmation."
+  ],
+  "coverageConfirmedOn": "2026-11-01"
+}
